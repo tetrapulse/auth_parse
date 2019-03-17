@@ -21,6 +21,8 @@ with open(filename) as file_object:
 				failed_username[result[1]].append(result[0])
 			except:
 				failed_username[result[1]] = [result[0]]
+				
+file_object.close()
 
 print("IP addresses:")
 for ip in failed_attemts.keys():
