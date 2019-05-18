@@ -21,9 +21,9 @@ def parse_line(line):
 	# Else it returns nothing.
 	
 	# search for invalid user attempts
-	search_pattern1 = 'Invalid\suser\s(\w+)\sfrom\s([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})'
+	search_pattern1 = 'Invalid\suser\s(\w+)\sfrom\s(\d+\.\d+\.\d+\.\d+)'
 	# search for failed login for valid username
-	search_pattern2 = 'Disconnected\sfrom\sauthenticating\suser\s(\w+)\s([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})'
+	search_pattern2 = 'Disconnected\sfrom\sauthenticating\suser\s(\w+)\s(\d+\.\d+\.\d+\.\d+)'
 	result1 = re.search(search_pattern1, line)
 	result2 = re.search(search_pattern2, line)
 	# assuming only one line parsed at a time so only one of the results
@@ -76,9 +76,9 @@ if not failed_attemts and not failed_username:
 	exit(0)
 
 # Reporting to console begins here
-print("IP addresses:")
+print("IP addresses and number of attempts:")
 for ip in failed_attemts.keys():
-	print("%s\t%s" % (ip, failed_attemts[ip]))		
+	print("\t%s\t%s" % (ip, failed_attemts[ip]))		
 
 top_ip = max(failed_attemts, key=failed_attemts.get)
 print("Worst offender:\t\t %s" % top_ip)
@@ -87,5 +87,5 @@ print("Usernames attempted:")
 printed_names = []
 for value in failed_username[top_ip]:
 	if value not in printed_names:
-		print(value)
+		print('\t' +value)
 		printed_names.append(value)
