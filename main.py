@@ -29,13 +29,9 @@ def parse_line(line):
 	# assuming only one line parsed at a time so only one of the results
 	# will be valid.
 	if result1:
-		username = result1.group(1)
-		ip = result1.group(2)
-		return (username, ip)
+		return (result1.group(1), result1.group(2))
 	elif result2:
-		username = result2.group(1)
-		ip = result2.group(2)
-		return (username, ip)
+		return (result2.group(1), result2.group(2))
 	else:
 		# line did not contain a failed login and ip so will not return
 		# anything
