@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import re
 import argparse
 
@@ -63,7 +64,7 @@ try:
 				except:
 					failed_username[result[1]] = [result[0]]
 except FileNotFoundError as err:
-	print("The log file specified could not be found.")
+	print("The log file: " + args.log_file + " could not be found.")
 	print(err)
 	exit(2)
 except PermissionError as err:
