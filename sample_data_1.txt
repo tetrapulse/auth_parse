@@ -1,0 +1,1364 @@
+Feb 17 18:04:04 log-collector systemd-logind[836]: Watching system buttons on /dev/input/event0 (Power Button)
+Feb 17 18:04:04 log-collector systemd-logind[836]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Feb 17 18:04:04 log-collector systemd-logind[836]: New seat seat0.
+Feb 17 18:04:05 log-collector sshd[965]: Server listening on 0.0.0.0 port 22.
+Feb 17 18:04:05 log-collector sshd[965]: Server listening on :: port 22.
+Feb 17 18:05:50 log-collector sshd[1101]: Connection closed by 45.115.45.3 port 33382 [preauth]
+Feb 17 18:08:19 log-collector sshd[1111]: Invalid user ts3bot from 118.25.55.87 port 44426
+Feb 17 18:08:19 log-collector sshd[1111]: Received disconnect from 118.25.55.87 port 44426:11: Bye Bye [preauth]
+Feb 17 18:08:19 log-collector sshd[1111]: Disconnected from invalid user ts3bot 118.25.55.87 port 44426 [preauth]
+Feb 17 18:11:00 log-collector sshd[1115]: Received disconnect from 61.184.247.4 port 54320:11:  [preauth]
+Feb 17 18:11:00 log-collector sshd[1115]: Disconnected from authenticating user root 61.184.247.4 port 54320 [preauth]
+Feb 17 18:11:56 log-collector sshd[1117]: Invalid user post from 132.232.76.213 port 53802
+Feb 17 18:11:56 log-collector sshd[1117]: Received disconnect from 132.232.76.213 port 53802:11: Bye Bye [preauth]
+Feb 17 18:11:56 log-collector sshd[1117]: Disconnected from invalid user post 132.232.76.213 port 53802 [preauth]
+Feb 17 18:12:13 log-collector sshd[1119]: Invalid user wifi from 86.49.182.220 port 37694
+Feb 17 18:12:13 log-collector sshd[1119]: Received disconnect from 86.49.182.220 port 37694:11: Bye Bye [preauth]
+Feb 17 18:12:13 log-collector sshd[1119]: Disconnected from invalid user wifi 86.49.182.220 port 37694 [preauth]
+Feb 17 18:12:29 log-collector sshd[1121]: Invalid user factorio from 175.140.190.106 port 50758
+Feb 17 18:12:29 log-collector sshd[1121]: Received disconnect from 175.140.190.106 port 50758:11: Bye Bye [preauth]
+Feb 17 18:12:29 log-collector sshd[1121]: Disconnected from invalid user factorio 175.140.190.106 port 50758 [preauth]
+Feb 17 18:13:22 log-collector sshd[1123]: Connection closed by 45.115.45.3 port 34532 [preauth]
+Feb 17 18:13:29 log-collector sshd[1125]: Accepted publickey for root from 1.2.3.4 port 22554 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:13:29 log-collector sshd[1125]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:13:29 log-collector systemd-logind[836]: New session 1 of user root.
+Feb 17 18:13:29 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 18:15:45 log-collector sshd[1125]: Received disconnect from 1.2.3.4 port 22554:11: disconnected by user
+Feb 17 18:15:45 log-collector sshd[1125]: Disconnected from user root 1.2.3.4 port 22554
+Feb 17 18:15:45 log-collector sshd[1125]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:15:45 log-collector systemd-logind[836]: Removed session 1.
+Feb 17 18:15:56 log-collector sshd[1265]: Invalid user teamspeak from 35.199.83.12 port 50106
+Feb 17 18:15:57 log-collector sshd[1265]: Received disconnect from 35.199.83.12 port 50106:11: Bye Bye [preauth]
+Feb 17 18:15:57 log-collector sshd[1265]: Disconnected from invalid user teamspeak 35.199.83.12 port 50106 [preauth]
+Feb 17 18:16:20 log-collector sshd[1268]: Accepted publickey for root from 1.2.3.4 port 7968 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:16:20 log-collector sshd[1268]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:16:20 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 18:16:20 log-collector systemd-logind[836]: New session 3 of user root.
+Feb 17 18:16:21 log-collector sshd[1268]: Received disconnect from 1.2.3.4 port 7968:11: disconnected by user
+Feb 17 18:16:21 log-collector sshd[1268]: Disconnected from user root 1.2.3.4 port 7968
+Feb 17 18:16:21 log-collector sshd[1268]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:16:21 log-collector systemd-logind[836]: Removed session 3.
+Feb 17 18:16:23 log-collector sshd[1344]: Invalid user teamspeak from 51.77.148.158 port 42094
+Feb 17 18:16:24 log-collector sshd[1344]: Received disconnect from 51.77.148.158 port 42094:11: Bye Bye [preauth]
+Feb 17 18:16:24 log-collector sshd[1344]: Disconnected from invalid user teamspeak 51.77.148.158 port 42094 [preauth]
+Feb 17 18:16:35 log-collector sshd[1346]: error: maximum authentication attempts exceeded for root from 187.190.247.50 port 57723 ssh2 [preauth]
+Feb 17 18:16:35 log-collector sshd[1346]: Disconnecting authenticating user root 187.190.247.50 port 57723: Too many authentication failures [preauth]
+Feb 17 18:17:01 log-collector CRON[1350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 18:17:01 log-collector CRON[1350]: pam_unix(cron:session): session closed for user root
+Feb 17 18:17:09 log-collector sshd[1357]: Received disconnect from 125.65.42.192 port 42725:11:  [preauth]
+Feb 17 18:17:09 log-collector sshd[1357]: Disconnected from authenticating user root 125.65.42.192 port 42725 [preauth]
+Feb 17 18:19:42 log-collector sshd[1378]: Accepted publickey for root from 1.2.3.4 port 55360 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:19:42 log-collector sshd[1378]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:19:42 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 18:19:42 log-collector systemd-logind[836]: New session 6 of user root.
+Feb 17 18:20:52 log-collector sshd[1470]: Connection closed by 45.115.45.3 port 35656 [preauth]
+Feb 17 18:23:37 log-collector sshd[1475]: Invalid user elly from 91.211.245.84 port 34988
+Feb 17 18:23:38 log-collector sshd[1475]: Received disconnect from 91.211.245.84 port 34988:11: Bye Bye [preauth]
+Feb 17 18:23:38 log-collector sshd[1475]: Disconnected from invalid user elly 91.211.245.84 port 34988 [preauth]
+Feb 17 18:24:02 log-collector sshd[1477]: Invalid user massimo from 112.64.17.14 port 53008
+Feb 17 18:24:02 log-collector sshd[1477]: Received disconnect from 112.64.17.14 port 53008:11: Bye Bye [preauth]
+Feb 17 18:24:02 log-collector sshd[1477]: Disconnected from invalid user massimo 112.64.17.14 port 53008 [preauth]
+Feb 17 18:24:24 log-collector sshd[1479]: Invalid user elly from 91.223.128.112 port 60734
+Feb 17 18:24:24 log-collector sshd[1479]: Received disconnect from 91.223.128.112 port 60734:11: Bye Bye [preauth]
+Feb 17 18:24:24 log-collector sshd[1479]: Disconnected from invalid user elly 91.223.128.112 port 60734 [preauth]
+Feb 17 18:24:25 log-collector sshd[1481]: Invalid user massimo from 213.149.105.12 port 59940
+Feb 17 18:24:26 log-collector sshd[1481]: Received disconnect from 213.149.105.12 port 59940:11: Bye Bye [preauth]
+Feb 17 18:24:26 log-collector sshd[1481]: Disconnected from invalid user massimo 213.149.105.12 port 59940 [preauth]
+Feb 17 18:26:35 log-collector passwd[1486]: pam_unix(passwd:chauthtok): password changed for root
+Feb 17 18:28:20 log-collector sshd[1487]: Connection closed by 45.115.45.3 port 36800 [preauth]
+Feb 17 18:28:43 log-collector sshd[1490]: Invalid user elasticsearch from 125.132.73.43 port 54880
+Feb 17 18:28:43 log-collector sshd[1490]: Received disconnect from 125.132.73.43 port 54880:11: Bye Bye [preauth]
+Feb 17 18:28:43 log-collector sshd[1490]: Disconnected from invalid user elasticsearch 125.132.73.43 port 54880 [preauth]
+Feb 17 18:29:56 log-collector sshd[1492]: Accepted publickey for root from 1.2.3.4 port 9312 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:29:56 log-collector sshd[1492]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:29:56 log-collector systemd-logind[836]: New session 8 of user root.
+Feb 17 18:30:44 log-collector sshd[1492]: Received disconnect from 1.2.3.4 port 9312:11: disconnected by user
+Feb 17 18:30:44 log-collector sshd[1492]: Disconnected from user root 1.2.3.4 port 9312
+Feb 17 18:30:44 log-collector sshd[1492]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:30:44 log-collector systemd-logind[836]: Removed session 8.
+Feb 17 18:32:36 log-collector sshd[1572]: Connection closed by authenticating user root 1.2.3.4 port 64588 [preauth]
+Feb 17 18:32:55 log-collector sshd[1579]: Connection closed by authenticating user root 1.2.3.4 port 34927 [preauth]
+Feb 17 18:32:55 log-collector sshd[1574]: error: maximum authentication attempts exceeded for root from 177.143.95.140 port 44900 ssh2 [preauth]
+Feb 17 18:32:55 log-collector sshd[1574]: Disconnecting authenticating user root 177.143.95.140 port 44900: Too many authentication failures [preauth]
+Feb 17 18:32:59 log-collector sshd[1575]: error: maximum authentication attempts exceeded for root from 177.143.95.140 port 45026 ssh2 [preauth]
+Feb 17 18:32:59 log-collector sshd[1575]: Disconnecting authenticating user root 177.143.95.140 port 45026: Too many authentication failures [preauth]
+Feb 17 18:33:13 log-collector sshd[1576]: error: maximum authentication attempts exceeded for root from 177.143.95.140 port 44843 ssh2 [preauth]
+Feb 17 18:33:13 log-collector sshd[1576]: Disconnecting authenticating user root 177.143.95.140 port 44843: Too many authentication failures [preauth]
+Feb 17 18:33:51 log-collector sshd[1585]: Invalid user gmodserver from 178.128.15.116 port 34578
+Feb 17 18:33:51 log-collector sshd[1585]: Received disconnect from 178.128.15.116 port 34578:11: Bye Bye [preauth]
+Feb 17 18:33:51 log-collector sshd[1585]: Disconnected from invalid user gmodserver 178.128.15.116 port 34578 [preauth]
+Feb 17 18:35:34 log-collector sshd[1378]: Received disconnect from 1.2.3.4 port 55360:11: disconnected by user
+Feb 17 18:35:34 log-collector sshd[1378]: Disconnected from user root 1.2.3.4 port 55360
+Feb 17 18:35:34 log-collector sshd[1378]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:35:34 log-collector systemd-logind[836]: Removed session 6.
+Feb 17 18:35:45 log-collector sshd[1598]: Connection closed by 45.115.45.3 port 37942 [preauth]
+Feb 17 18:36:28 log-collector sshd[1600]: Accepted publickey for root from 1.2.3.4 port 26877 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:36:28 log-collector sshd[1600]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:36:28 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 18:36:28 log-collector systemd-logind[836]: New session 9 of user root.
+Feb 17 18:36:29 log-collector sshd[1600]: Received disconnect from 1.2.3.4 port 26877:11: disconnected by user
+Feb 17 18:36:29 log-collector sshd[1600]: Disconnected from user root 1.2.3.4 port 26877
+Feb 17 18:36:29 log-collector sshd[1600]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:36:29 log-collector systemd-logind[836]: Removed session 9.
+Feb 17 18:41:13 log-collector sshd[1677]: error: maximum authentication attempts exceeded for root from 27.14.144.6 port 4729 ssh2 [preauth]
+Feb 17 18:41:13 log-collector sshd[1677]: Disconnecting authenticating user root 27.14.144.6 port 4729: Too many authentication failures [preauth]
+Feb 17 18:43:07 log-collector sshd[1679]: Connection closed by 45.115.45.3 port 39124 [preauth]
+Feb 17 18:47:39 log-collector sshd[1682]: Invalid user support from 27.254.144.246 port 57466
+Feb 17 18:47:39 log-collector sshd[1682]: Received disconnect from 27.254.144.246 port 57466:11: Bye Bye [preauth]
+Feb 17 18:47:39 log-collector sshd[1682]: Disconnected from invalid user support 27.254.144.246 port 57466 [preauth]
+Feb 17 18:48:28 log-collector sshd[1684]: Invalid user nl from 110.190.92.137 port 39345
+Feb 17 18:48:28 log-collector sshd[1684]: Received disconnect from 110.190.92.137 port 39345:11: Bye Bye [preauth]
+Feb 17 18:48:28 log-collector sshd[1684]: Disconnected from invalid user nl 110.190.92.137 port 39345 [preauth]
+Feb 17 18:50:28 log-collector sshd[1686]: Connection closed by 45.115.45.3 port 40266 [preauth]
+Feb 17 18:51:11 log-collector sshd[1688]: Invalid user facturacion from 178.60.39.61 port 34012
+Feb 17 18:51:12 log-collector sshd[1688]: Received disconnect from 178.60.39.61 port 34012:11: Bye Bye [preauth]
+Feb 17 18:51:12 log-collector sshd[1688]: Disconnected from invalid user facturacion 178.60.39.61 port 34012 [preauth]
+Feb 17 18:51:20 log-collector sshd[1690]: Invalid user facturacion from 183.101.208.41 port 58264
+Feb 17 18:51:20 log-collector sshd[1690]: Received disconnect from 183.101.208.41 port 58264:11: Bye Bye [preauth]
+Feb 17 18:51:20 log-collector sshd[1690]: Disconnected from invalid user facturacion 183.101.208.41 port 58264 [preauth]
+Feb 17 18:51:23 log-collector sshd[1692]: Invalid user simon from 221.8.63.26 port 42454
+Feb 17 18:51:24 log-collector sshd[1692]: Received disconnect from 221.8.63.26 port 42454:11: Bye Bye [preauth]
+Feb 17 18:51:24 log-collector sshd[1692]: Disconnected from invalid user simon 221.8.63.26 port 42454 [preauth]
+Feb 17 18:51:25 log-collector sshd[1694]: Invalid user test from 54.38.47.28 port 60878
+Feb 17 18:51:25 log-collector sshd[1694]: Received disconnect from 54.38.47.28 port 60878:11: Bye Bye [preauth]
+Feb 17 18:51:25 log-collector sshd[1694]: Disconnected from invalid user test 54.38.47.28 port 60878 [preauth]
+Feb 17 18:51:26 log-collector sshd[1696]: Invalid user facturacion from 177.67.105.7 port 39448
+Feb 17 18:51:27 log-collector sshd[1696]: Received disconnect from 177.67.105.7 port 39448:11: Bye Bye [preauth]
+Feb 17 18:51:27 log-collector sshd[1696]: Disconnected from invalid user facturacion 177.67.105.7 port 39448 [preauth]
+Feb 17 18:51:30 log-collector sshd[1698]: Invalid user vss from 106.12.113.194 port 49658
+Feb 17 18:51:30 log-collector sshd[1698]: Received disconnect from 106.12.113.194 port 49658:11: Bye Bye [preauth]
+Feb 17 18:51:30 log-collector sshd[1698]: Disconnected from invalid user vss 106.12.113.194 port 49658 [preauth]
+Feb 17 18:51:41 log-collector sshd[1700]: Invalid user service from 129.152.176.197 port 13455
+Feb 17 18:51:41 log-collector sshd[1700]: Received disconnect from 129.152.176.197 port 13455:11: Bye Bye [preauth]
+Feb 17 18:51:41 log-collector sshd[1700]: Disconnected from invalid user service 129.152.176.197 port 13455 [preauth]
+Feb 17 18:51:44 log-collector sshd[1702]: Invalid user service from 37.139.0.226 port 55370
+Feb 17 18:51:44 log-collector sshd[1702]: Received disconnect from 37.139.0.226 port 55370:11: Bye Bye [preauth]
+Feb 17 18:51:44 log-collector sshd[1702]: Disconnected from invalid user service 37.139.0.226 port 55370 [preauth]
+Feb 17 18:52:28 log-collector sshd[1704]: Invalid user facturacion from 41.72.105.171 port 53149
+Feb 17 18:52:28 log-collector sshd[1704]: Received disconnect from 41.72.105.171 port 53149:11: Bye Bye [preauth]
+Feb 17 18:52:28 log-collector sshd[1704]: Disconnected from invalid user facturacion 41.72.105.171 port 53149 [preauth]
+Feb 17 18:54:09 log-collector sshd[1707]: Accepted publickey for root from 1.2.3.4 port 7354 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 18:54:09 log-collector sshd[1707]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 18:54:09 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 18:54:09 log-collector systemd-logind[836]: New session 11 of user root.
+Feb 17 18:54:39 log-collector sshd[2057]: Invalid user nuxeo from 5.39.79.48 port 53405
+Feb 17 18:54:39 log-collector sshd[2057]: Received disconnect from 5.39.79.48 port 53405:11: Bye Bye [preauth]
+Feb 17 18:54:39 log-collector sshd[2057]: Disconnected from invalid user nuxeo 5.39.79.48 port 53405 [preauth]
+Feb 17 18:54:50 log-collector sshd[2063]: Invalid user ri from 193.112.3.110 port 48511
+Feb 17 18:54:50 log-collector sshd[2063]: Received disconnect from 193.112.3.110 port 48511:11: Bye Bye [preauth]
+Feb 17 18:54:50 log-collector sshd[2063]: Disconnected from invalid user ri 193.112.3.110 port 48511 [preauth]
+Feb 17 18:54:50 log-collector sshd[1707]: Received disconnect from 1.2.3.4 port 7354:11: disconnected by user
+Feb 17 18:54:50 log-collector sshd[1707]: Disconnected from user root 1.2.3.4 port 7354
+Feb 17 18:54:50 log-collector sshd[1707]: pam_unix(sshd:session): session closed for user root
+Feb 17 18:54:50 log-collector systemd-logind[836]: Removed session 11.
+Feb 17 18:55:12 log-collector sshd[2066]: Invalid user vncuser from 47.16.237.192 port 33138
+Feb 17 18:55:12 log-collector sshd[2066]: Received disconnect from 47.16.237.192 port 33138:11: Bye Bye [preauth]
+Feb 17 18:55:12 log-collector sshd[2066]: Disconnected from invalid user vncuser 47.16.237.192 port 33138 [preauth]
+Feb 17 18:55:15 log-collector sshd[2068]: Invalid user nuxeo from 82.146.123.238 port 40372
+Feb 17 18:55:15 log-collector sshd[2068]: Received disconnect from 82.146.123.238 port 40372:11: Bye Bye [preauth]
+Feb 17 18:55:15 log-collector sshd[2068]: Disconnected from invalid user nuxeo 82.146.123.238 port 40372 [preauth]
+Feb 17 18:55:33 log-collector sshd[2070]: Invalid user ri from 61.19.119.3 port 59536
+Feb 17 18:55:33 log-collector sshd[2072]: Invalid user vivek from 49.247.207.56 port 34602
+Feb 17 18:55:33 log-collector sshd[2070]: Received disconnect from 61.19.119.3 port 59536:11: Bye Bye [preauth]
+Feb 17 18:55:33 log-collector sshd[2070]: Disconnected from invalid user ri 61.19.119.3 port 59536 [preauth]
+Feb 17 18:55:33 log-collector sshd[2072]: Received disconnect from 49.247.207.56 port 34602:11: Bye Bye [preauth]
+Feb 17 18:55:33 log-collector sshd[2072]: Disconnected from invalid user vivek 49.247.207.56 port 34602 [preauth]
+Feb 17 18:57:49 log-collector sshd[2074]: Connection closed by 45.115.45.3 port 41410 [preauth]
+Feb 17 19:01:58 log-collector sshd[2077]: Accepted publickey for root from 1.2.3.4 port 6350 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 19:01:58 log-collector sshd[2077]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 19:01:58 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 19:01:58 log-collector systemd-logind[836]: New session 13 of user root.
+Feb 17 19:01:59 log-collector sshd[2077]: Received disconnect from 1.2.3.4 port 6350:11: disconnected by user
+Feb 17 19:01:59 log-collector sshd[2077]: Disconnected from user root 1.2.3.4 port 6350
+Feb 17 19:01:59 log-collector sshd[2077]: pam_unix(sshd:session): session closed for user root
+Feb 17 19:01:59 log-collector systemd-logind[836]: Removed session 13.
+Feb 17 19:05:09 log-collector sshd[2159]: Connection closed by 45.115.45.3 port 42534 [preauth]
+Feb 17 19:10:47 log-collector sshd[2162]: Invalid user teampspeak3 from 178.128.15.116 port 42534
+Feb 17 19:10:47 log-collector sshd[2162]: Received disconnect from 178.128.15.116 port 42534:11: Bye Bye [preauth]
+Feb 17 19:10:47 log-collector sshd[2162]: Disconnected from invalid user teampspeak3 178.128.15.116 port 42534 [preauth]
+Feb 17 19:11:00 log-collector sshd[2164]: Invalid user elena from 122.152.199.11 port 57070
+Feb 17 19:11:00 log-collector sshd[2164]: Received disconnect from 122.152.199.11 port 57070:11: Bye Bye [preauth]
+Feb 17 19:11:00 log-collector sshd[2164]: Disconnected from invalid user elena 122.152.199.11 port 57070 [preauth]
+Feb 17 19:11:19 log-collector sshd[2166]: Accepted publickey for root from 1.2.3.4 port 31897 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 19:11:19 log-collector sshd[2166]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 19:11:19 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 19:11:19 log-collector systemd-logind[836]: New session 15 of user root.
+Feb 17 19:11:20 log-collector sshd[2166]: Received disconnect from 1.2.3.4 port 31897:11: disconnected by user
+Feb 17 19:11:20 log-collector sshd[2166]: Disconnected from user root 1.2.3.4 port 31897
+Feb 17 19:11:20 log-collector sshd[2166]: pam_unix(sshd:session): session closed for user root
+Feb 17 19:11:20 log-collector systemd-logind[836]: Removed session 15.
+Feb 17 19:11:36 log-collector sshd[2243]: Invalid user saned from 114.250.150.6 port 46177
+Feb 17 19:11:37 log-collector sshd[2243]: Received disconnect from 114.250.150.6 port 46177:11: Bye Bye [preauth]
+Feb 17 19:11:37 log-collector sshd[2243]: Disconnected from invalid user saned 114.250.150.6 port 46177 [preauth]
+Feb 17 19:11:43 log-collector sshd[2245]: Accepted publickey for root from 1.2.3.4 port 4448 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 19:11:43 log-collector sshd[2245]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 19:11:43 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 17 19:11:43 log-collector systemd-logind[836]: New session 17 of user root.
+Feb 17 19:11:45 log-collector sshd[2332]: Invalid user user from 109.255.228.154 port 36272
+Feb 17 19:11:46 log-collector sshd[2332]: Received disconnect from 109.255.228.154 port 36272:11: Bye Bye [preauth]
+Feb 17 19:11:46 log-collector sshd[2332]: Disconnected from invalid user user 109.255.228.154 port 36272 [preauth]
+Feb 17 19:11:55 log-collector sshd[2334]: Received disconnect from 14.215.48.109 port 41214:11: Bye Bye [preauth]
+Feb 17 19:11:55 log-collector sshd[2334]: Disconnected from authenticating user root 14.215.48.109 port 41214 [preauth]
+Feb 17 19:11:59 log-collector sshd[2339]: Received disconnect from 200.60.16.59 port 39802:11: Bye Bye [preauth]
+Feb 17 19:11:59 log-collector sshd[2339]: Disconnected from authenticating user root 200.60.16.59 port 39802 [preauth]
+Feb 17 19:12:11 log-collector sshd[2341]: Accepted publickey for root from 1.2.3.4 port 8614 ssh2: RSA SHA256:SHA256Goodness
+Feb 17 19:12:11 log-collector sshd[2341]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 17 19:12:11 log-collector systemd-logind[836]: New session 19 of user root.
+Feb 17 19:12:12 log-collector sshd[2341]: Received disconnect from 1.2.3.4 port 8614:11: disconnected by user
+Feb 17 19:12:12 log-collector sshd[2341]: Disconnected from user root 1.2.3.4 port 8614
+Feb 17 19:12:12 log-collector sshd[2341]: pam_unix(sshd:session): session closed for user root
+Feb 17 19:12:12 log-collector systemd-logind[836]: Removed session 19.
+Feb 17 19:12:28 log-collector sshd[2405]: Connection closed by 45.115.45.3 port 43672 [preauth]
+Feb 17 19:17:01 log-collector CRON[2410]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 19:17:01 log-collector CRON[2410]: pam_unix(cron:session): session closed for user root
+Feb 17 19:17:09 log-collector sshd[2408]: Received disconnect from 115.238.245.2 port 38844:11:  [preauth]
+Feb 17 19:17:09 log-collector sshd[2408]: Disconnected from authenticating user root 115.238.245.2 port 38844 [preauth]
+Feb 17 19:18:12 log-collector sshd[2413]: Invalid user srvadmin from 116.196.90.85 port 35032
+Feb 17 19:18:12 log-collector sshd[2413]: Received disconnect from 116.196.90.85 port 35032:11: Bye Bye [preauth]
+Feb 17 19:18:12 log-collector sshd[2413]: Disconnected from invalid user srvadmin 116.196.90.85 port 35032 [preauth]
+Feb 17 19:19:48 log-collector sshd[2415]: Connection closed by 45.115.45.3 port 44802 [preauth]
+Feb 17 19:20:32 log-collector sshd[2417]: Invalid user bronson from 47.205.245.164 port 45264
+Feb 17 19:20:32 log-collector sshd[2417]: Received disconnect from 47.205.245.164 port 45264:11: Bye Bye [preauth]
+Feb 17 19:20:32 log-collector sshd[2417]: Disconnected from invalid user bronson 47.205.245.164 port 45264 [preauth]
+Feb 17 19:25:20 log-collector sshd[2420]: Received disconnect from 36.156.24.95 port 52045:11:  [preauth]
+Feb 17 19:25:20 log-collector sshd[2420]: Disconnected from authenticating user root 36.156.24.95 port 52045 [preauth]
+Feb 17 19:26:14 log-collector sshd[2245]: Received disconnect from 1.2.3.4 port 4448:11: disconnected by user
+Feb 17 19:26:14 log-collector sshd[2245]: Disconnected from user root 1.2.3.4 port 4448
+Feb 17 19:26:14 log-collector sshd[2245]: pam_unix(sshd:session): session closed for user root
+Feb 17 19:26:14 log-collector systemd-logind[836]: Removed session 17.
+Feb 17 19:27:06 log-collector sshd[2425]: Connection closed by 45.115.45.3 port 45942 [preauth]
+Feb 17 19:27:31 log-collector sshd[2427]: Invalid user wp-user from 45.61.148.185 port 34936
+Feb 17 19:27:31 log-collector sshd[2427]: Received disconnect from 45.61.148.185 port 34936:11: Bye Bye [preauth]
+Feb 17 19:27:31 log-collector sshd[2427]: Disconnected from invalid user wp-user 45.61.148.185 port 34936 [preauth]
+Feb 17 19:27:48 log-collector sshd[2429]: Invalid user wp-user from 180.250.115.98 port 54395
+Feb 17 19:27:48 log-collector sshd[2429]: Received disconnect from 180.250.115.98 port 54395:11: Bye Bye [preauth]
+Feb 17 19:27:48 log-collector sshd[2429]: Disconnected from invalid user wp-user 180.250.115.98 port 54395 [preauth]
+Feb 17 19:28:00 log-collector sshd[2431]: Invalid user wp-user from 186.155.217.157 port 58275
+Feb 17 19:28:00 log-collector sshd[2431]: Received disconnect from 186.155.217.157 port 58275:11: Bye Bye [preauth]
+Feb 17 19:28:00 log-collector sshd[2431]: Disconnected from invalid user wp-user 186.155.217.157 port 58275 [preauth]
+Feb 17 19:28:09 log-collector sshd[2433]: Invalid user testftp from 54.37.19.206 port 54348
+Feb 17 19:28:09 log-collector sshd[2433]: Received disconnect from 54.37.19.206 port 54348:11: Bye Bye [preauth]
+Feb 17 19:28:09 log-collector sshd[2433]: Disconnected from invalid user testftp 54.37.19.206 port 54348 [preauth]
+Feb 17 19:28:11 log-collector sshd[2435]: Invalid user testftp from 80.211.69.250 port 60332
+Feb 17 19:28:12 log-collector sshd[2435]: Received disconnect from 80.211.69.250 port 60332:11: Bye Bye [preauth]
+Feb 17 19:28:12 log-collector sshd[2435]: Disconnected from invalid user testftp 80.211.69.250 port 60332 [preauth]
+Feb 17 19:28:31 log-collector sshd[2437]: Invalid user anjana from 120.52.120.166 port 55342
+Feb 17 19:28:31 log-collector sshd[2437]: Received disconnect from 120.52.120.166 port 55342:11: Bye Bye [preauth]
+Feb 17 19:28:31 log-collector sshd[2437]: Disconnected from invalid user anjana 120.52.120.166 port 55342 [preauth]
+Feb 17 19:29:36 log-collector sshd[2439]: Received disconnect from 115.238.245.4 port 40093:11:  [preauth]
+Feb 17 19:29:36 log-collector sshd[2439]: Disconnected from authenticating user root 115.238.245.4 port 40093 [preauth]
+Feb 17 19:30:51 log-collector sshd[2442]: Invalid user bsd1 from 24.44.18.253 port 39194
+Feb 17 19:30:51 log-collector sshd[2442]: Received disconnect from 24.44.18.253 port 39194:11: Bye Bye [preauth]
+Feb 17 19:30:51 log-collector sshd[2442]: Disconnected from invalid user bsd1 24.44.18.253 port 39194 [preauth]
+Feb 17 19:30:52 log-collector sshd[2444]: Invalid user bsd1 from 51.255.194.249 port 53277
+Feb 17 19:30:52 log-collector sshd[2444]: Received disconnect from 51.255.194.249 port 53277:11: Bye Bye [preauth]
+Feb 17 19:30:52 log-collector sshd[2444]: Disconnected from invalid user bsd1 51.255.194.249 port 53277 [preauth]
+Feb 17 19:31:30 log-collector sshd[2446]: Invalid user bsd1 from 167.99.173.0 port 36242
+Feb 17 19:31:30 log-collector sshd[2446]: Received disconnect from 167.99.173.0 port 36242:11: Bye Bye [preauth]
+Feb 17 19:31:30 log-collector sshd[2446]: Disconnected from invalid user bsd1 167.99.173.0 port 36242 [preauth]
+Feb 17 19:31:35 log-collector sshd[2448]: Invalid user sammy from 77.20.62.15 port 51524
+Feb 17 19:31:35 log-collector sshd[2448]: Received disconnect from 77.20.62.15 port 51524:11: Bye Bye [preauth]
+Feb 17 19:31:35 log-collector sshd[2448]: Disconnected from invalid user sammy 77.20.62.15 port 51524 [preauth]
+Feb 17 19:31:38 log-collector sshd[2450]: Invalid user sammy from 150.140.190.130 port 50410
+Feb 17 19:31:38 log-collector sshd[2452]: Invalid user sammy from 88.247.110.88 port 43430
+Feb 17 19:31:39 log-collector sshd[2450]: Received disconnect from 150.140.190.130 port 50410:11: Bye Bye [preauth]
+Feb 17 19:31:39 log-collector sshd[2450]: Disconnected from invalid user sammy 150.140.190.130 port 50410 [preauth]
+Feb 17 19:31:39 log-collector sshd[2452]: Received disconnect from 88.247.110.88 port 43430:11: Bye Bye [preauth]
+Feb 17 19:31:39 log-collector sshd[2452]: Disconnected from invalid user sammy 88.247.110.88 port 43430 [preauth]
+Feb 17 19:31:53 log-collector sshd[2454]: Invalid user cxh from 180.76.150.87 port 53435
+Feb 17 19:31:53 log-collector sshd[2454]: Received disconnect from 180.76.150.87 port 53435:11: Bye Bye [preauth]
+Feb 17 19:31:53 log-collector sshd[2454]: Disconnected from invalid user cxh 180.76.150.87 port 53435 [preauth]
+Feb 17 19:32:04 log-collector sshd[2456]: Invalid user sammy from 83.221.222.251 port 38826
+Feb 17 19:32:05 log-collector sshd[2456]: Received disconnect from 83.221.222.251 port 38826:11: Bye Bye [preauth]
+Feb 17 19:32:05 log-collector sshd[2456]: Disconnected from invalid user sammy 83.221.222.251 port 38826 [preauth]
+Feb 17 19:33:16 log-collector sshd[2458]: Invalid user postgres from 79.58.168.134 port 48956
+Feb 17 19:33:16 log-collector sshd[2458]: Received disconnect from 79.58.168.134 port 48956:11: Bye Bye [preauth]
+Feb 17 19:33:16 log-collector sshd[2458]: Disconnected from invalid user postgres 79.58.168.134 port 48956 [preauth]
+Feb 17 19:33:31 log-collector sshd[2460]: Invalid user test from 187.23.198.190 port 47595
+Feb 17 19:33:31 log-collector sshd[2460]: Received disconnect from 187.23.198.190 port 47595:11: Bye Bye [preauth]
+Feb 17 19:33:31 log-collector sshd[2460]: Disconnected from invalid user test 187.23.198.190 port 47595 [preauth]
+Feb 17 19:33:39 log-collector sshd[2462]: Invalid user csgosrv from 45.163.72.154 port 36719
+Feb 17 19:33:40 log-collector sshd[2462]: Received disconnect from 45.163.72.154 port 36719:11: Bye Bye [preauth]
+Feb 17 19:33:40 log-collector sshd[2462]: Disconnected from invalid user csgosrv 45.163.72.154 port 36719 [preauth]
+Feb 17 19:33:43 log-collector sshd[2464]: Invalid user userftp from 207.154.226.47 port 38594
+Feb 17 19:33:43 log-collector sshd[2464]: Received disconnect from 207.154.226.47 port 38594:11: Bye Bye [preauth]
+Feb 17 19:33:43 log-collector sshd[2464]: Disconnected from invalid user userftp 207.154.226.47 port 38594 [preauth]
+Feb 17 19:34:03 log-collector sshd[2466]: Invalid user userftp from 220.132.94.233 port 35926
+Feb 17 19:34:03 log-collector sshd[2466]: Received disconnect from 220.132.94.233 port 35926:11: Bye Bye [preauth]
+Feb 17 19:34:03 log-collector sshd[2466]: Disconnected from invalid user userftp 220.132.94.233 port 35926 [preauth]
+Feb 17 19:34:10 log-collector sshd[2468]: Invalid user arkserver from 14.215.48.67 port 56050
+Feb 17 19:34:11 log-collector sshd[2468]: Received disconnect from 14.215.48.67 port 56050:11: Bye Bye [preauth]
+Feb 17 19:34:11 log-collector sshd[2468]: Disconnected from invalid user arkserver 14.215.48.67 port 56050 [preauth]
+Feb 17 19:34:17 log-collector sshd[2470]: Invalid user userftp from 120.195.162.222 port 41750
+Feb 17 19:34:17 log-collector sshd[2470]: Received disconnect from 120.195.162.222 port 41750:11: Bye Bye [preauth]
+Feb 17 19:34:17 log-collector sshd[2470]: Disconnected from invalid user userftp 120.195.162.222 port 41750 [preauth]
+Feb 17 19:34:28 log-collector sshd[2472]: Connection closed by 45.115.45.3 port 47074 [preauth]
+Feb 17 19:34:48 log-collector sshd[2474]: Invalid user postgres from 117.218.149.81 port 40406
+Feb 17 19:34:49 log-collector sshd[2474]: Received disconnect from 117.218.149.81 port 40406:11: Bye Bye [preauth]
+Feb 17 19:34:49 log-collector sshd[2474]: Disconnected from invalid user postgres 117.218.149.81 port 40406 [preauth]
+Feb 17 19:37:34 log-collector sshd[2477]: Invalid user git from 142.93.6.47 port 54276
+Feb 17 19:37:35 log-collector sshd[2477]: Received disconnect from 142.93.6.47 port 54276:11: Bye Bye [preauth]
+Feb 17 19:37:35 log-collector sshd[2477]: Disconnected from invalid user git 142.93.6.47 port 54276 [preauth]
+Feb 17 19:38:21 log-collector sshd[2479]: Invalid user usuario from 192.99.244.105 port 45770
+Feb 17 19:38:22 log-collector sshd[2479]: Received disconnect from 192.99.244.105 port 45770:11: Bye Bye [preauth]
+Feb 17 19:38:22 log-collector sshd[2479]: Disconnected from invalid user usuario 192.99.244.105 port 45770 [preauth]
+Feb 17 19:38:37 log-collector sshd[2481]: Invalid user newadmin from 193.112.66.61 port 49694
+Feb 17 19:38:37 log-collector sshd[2481]: Received disconnect from 193.112.66.61 port 49694:11: Bye Bye [preauth]
+Feb 17 19:38:37 log-collector sshd[2481]: Disconnected from invalid user newadmin 193.112.66.61 port 49694 [preauth]
+Feb 17 19:38:40 log-collector sshd[2483]: Invalid user video from 62.93.166.91 port 42658
+Feb 17 19:38:40 log-collector sshd[2483]: Received disconnect from 62.93.166.91 port 42658:11: Bye Bye [preauth]
+Feb 17 19:38:40 log-collector sshd[2483]: Disconnected from invalid user video 62.93.166.91 port 42658 [preauth]
+Feb 17 19:38:53 log-collector sshd[2485]: Invalid user trouble from 34.220.197.252 port 51700
+Feb 17 19:38:53 log-collector sshd[2485]: Received disconnect from 34.220.197.252 port 51700:11: Bye Bye [preauth]
+Feb 17 19:38:53 log-collector sshd[2485]: Disconnected from invalid user trouble 34.220.197.252 port 51700 [preauth]
+Feb 17 19:38:57 log-collector sshd[2487]: Invalid user video from 222.186.136.64 port 51244
+Feb 17 19:38:57 log-collector sshd[2487]: Received disconnect from 222.186.136.64 port 51244:11: Bye Bye [preauth]
+Feb 17 19:38:57 log-collector sshd[2487]: Disconnected from invalid user video 222.186.136.64 port 51244 [preauth]
+Feb 17 19:41:47 log-collector sshd[2489]: Connection closed by 45.115.45.3 port 48226 [preauth]
+Feb 17 19:43:14 log-collector sshd[2492]: Invalid user user from 188.131.228.31 port 57128
+Feb 17 19:43:14 log-collector sshd[2492]: Received disconnect from 188.131.228.31 port 57128:11: Bye Bye [preauth]
+Feb 17 19:43:14 log-collector sshd[2492]: Disconnected from invalid user user 188.131.228.31 port 57128 [preauth]
+Feb 17 19:43:41 log-collector sshd[2494]: Invalid user ie from 212.92.118.184 port 47486
+Feb 17 19:43:41 log-collector sshd[2494]: Received disconnect from 212.92.118.184 port 47486:11: Bye Bye [preauth]
+Feb 17 19:43:41 log-collector sshd[2494]: Disconnected from invalid user ie 212.92.118.184 port 47486 [preauth]
+Feb 17 19:44:19 log-collector sshd[2496]: Received disconnect from 223.111.139.211 port 35026:11:  [preauth]
+Feb 17 19:44:19 log-collector sshd[2496]: Disconnected from authenticating user root 223.111.139.211 port 35026 [preauth]
+Feb 17 19:46:44 log-collector sshd[2498]: Invalid user ts1 from 104.236.72.187 port 52652
+Feb 17 19:46:44 log-collector sshd[2498]: Received disconnect from 104.236.72.187 port 52652:11: Bye Bye [preauth]
+Feb 17 19:46:44 log-collector sshd[2498]: Disconnected from invalid user ts1 104.236.72.187 port 52652 [preauth]
+Feb 17 19:46:53 log-collector sshd[2500]: Invalid user ts1 from 189.212.9.123 port 41266
+Feb 17 19:46:53 log-collector sshd[2500]: Received disconnect from 189.212.9.123 port 41266:11: Bye Bye [preauth]
+Feb 17 19:46:53 log-collector sshd[2500]: Disconnected from invalid user ts1 189.212.9.123 port 41266 [preauth]
+Feb 17 19:46:57 log-collector sshd[2502]: Invalid user nxpgsql from 121.67.246.132 port 40686
+Feb 17 19:46:57 log-collector sshd[2502]: Received disconnect from 121.67.246.132 port 40686:11: Bye Bye [preauth]
+Feb 17 19:46:57 log-collector sshd[2502]: Disconnected from invalid user nxpgsql 121.67.246.132 port 40686 [preauth]
+Feb 17 19:47:26 log-collector sshd[2504]: Invalid user oracle from 5.196.75.42 port 54574
+Feb 17 19:47:26 log-collector sshd[2504]: Received disconnect from 5.196.75.42 port 54574:11: Bye Bye [preauth]
+Feb 17 19:47:26 log-collector sshd[2504]: Disconnected from invalid user oracle 5.196.75.42 port 54574 [preauth]
+Feb 17 19:48:59 log-collector sshd[2507]: Received disconnect from 223.111.139.244 port 59638:11:  [preauth]
+Feb 17 19:48:59 log-collector sshd[2507]: Disconnected from authenticating user root 223.111.139.244 port 59638 [preauth]
+Feb 17 19:49:08 log-collector sshd[2511]: Connection closed by 45.115.45.3 port 49348 [preauth]
+Feb 17 19:49:14 log-collector sshd[2513]: Invalid user hduser from 190.164.29.75 port 53458
+Feb 17 19:49:14 log-collector sshd[2513]: Received disconnect from 190.164.29.75 port 53458:11: Bye Bye [preauth]
+Feb 17 19:49:14 log-collector sshd[2513]: Disconnected from invalid user hduser 190.164.29.75 port 53458 [preauth]
+Feb 17 19:49:19 log-collector sshd[2509]: Received disconnect from 122.226.181.164 port 49744:11:  [preauth]
+Feb 17 19:49:19 log-collector sshd[2509]: Disconnected from authenticating user root 122.226.181.164 port 49744 [preauth]
+Feb 17 19:56:09 log-collector sshd[2516]: Received disconnect from 165.227.9.145 port 37996:11: Bye Bye [preauth]
+Feb 17 19:56:09 log-collector sshd[2516]: Disconnected from authenticating user irc 165.227.9.145 port 37996 [preauth]
+Feb 17 19:56:28 log-collector sshd[2518]: Invalid user biovitaly from 106.12.199.98 port 54988
+Feb 17 19:56:28 log-collector sshd[2518]: Received disconnect from 106.12.199.98 port 54988:11: Bye Bye [preauth]
+Feb 17 19:56:28 log-collector sshd[2518]: Disconnected from invalid user biovitaly 106.12.199.98 port 54988 [preauth]
+Feb 17 19:56:29 log-collector sshd[2520]: Connection closed by 45.115.45.3 port 50494 [preauth]
+Feb 17 19:57:55 log-collector sshd[2522]: Invalid user test from 192.144.151.30 port 54618
+Feb 17 19:57:55 log-collector sshd[2522]: Received disconnect from 192.144.151.30 port 54618:11: Bye Bye [preauth]
+Feb 17 19:57:55 log-collector sshd[2522]: Disconnected from invalid user test 192.144.151.30 port 54618 [preauth]
+Feb 17 20:02:09 log-collector sshd[2527]: Invalid user release from 92.222.84.34 port 42404
+Feb 17 20:02:09 log-collector sshd[2527]: Received disconnect from 92.222.84.34 port 42404:11: Bye Bye [preauth]
+Feb 17 20:02:09 log-collector sshd[2527]: Disconnected from invalid user release 92.222.84.34 port 42404 [preauth]
+Feb 17 20:02:12 log-collector sshd[2529]: Invalid user nexus from 89.96.103.170 port 65276
+Feb 17 20:02:12 log-collector sshd[2529]: Received disconnect from 89.96.103.170 port 65276:11: Bye Bye [preauth]
+Feb 17 20:02:12 log-collector sshd[2529]: Disconnected from invalid user nexus 89.96.103.170 port 65276 [preauth]
+Feb 17 20:02:15 log-collector sshd[2525]: Invalid user test from 122.176.83.155 port 38305
+Feb 17 20:02:16 log-collector sshd[2525]: Received disconnect from 122.176.83.155 port 38305:11: Bye Bye [preauth]
+Feb 17 20:02:16 log-collector sshd[2525]: Disconnected from invalid user test 122.176.83.155 port 38305 [preauth]
+Feb 17 20:03:49 log-collector sshd[2531]: Connection closed by 45.115.45.3 port 51670 [preauth]
+Feb 17 20:04:34 log-collector sshd[2533]: Invalid user usuario1 from 144.76.70.167 port 57948
+Feb 17 20:04:34 log-collector sshd[2533]: Received disconnect from 144.76.70.167 port 57948:11: Bye Bye [preauth]
+Feb 17 20:04:34 log-collector sshd[2533]: Disconnected from invalid user usuario1 144.76.70.167 port 57948 [preauth]
+Feb 17 20:04:43 log-collector sshd[2535]: Received disconnect from 61.184.247.3 port 42422:11:  [preauth]
+Feb 17 20:04:43 log-collector sshd[2535]: Disconnected from authenticating user root 61.184.247.3 port 42422 [preauth]
+Feb 17 20:04:44 log-collector sshd[2537]: Invalid user usuario1 from 186.147.34.238 port 8641
+Feb 17 20:04:45 log-collector sshd[2537]: Received disconnect from 186.147.34.238 port 8641:11: Bye Bye [preauth]
+Feb 17 20:04:45 log-collector sshd[2537]: Disconnected from invalid user usuario1 186.147.34.238 port 8641 [preauth]
+Feb 17 20:06:19 log-collector sshd[2539]: Invalid user xxxx from 222.74.239.67 port 42452
+Feb 17 20:06:19 log-collector sshd[2539]: Received disconnect from 222.74.239.67 port 42452:11: Bye Bye [preauth]
+Feb 17 20:06:19 log-collector sshd[2539]: Disconnected from invalid user xxxx 222.74.239.67 port 42452 [preauth]
+Feb 17 20:07:22 log-collector sshd[2542]: Invalid user cliente from 14.35.249.205 port 53201
+Feb 17 20:07:22 log-collector sshd[2542]: Received disconnect from 14.35.249.205 port 53201:11: Bye Bye [preauth]
+Feb 17 20:07:22 log-collector sshd[2542]: Disconnected from invalid user cliente 14.35.249.205 port 53201 [preauth]
+Feb 17 20:07:31 log-collector sshd[2544]: Invalid user zonaWifi from 181.164.26.177 port 53268
+Feb 17 20:07:31 log-collector sshd[2544]: Received disconnect from 181.164.26.177 port 53268:11: Bye Bye [preauth]
+Feb 17 20:07:31 log-collector sshd[2544]: Disconnected from invalid user zonaWifi 181.164.26.177 port 53268 [preauth]
+Feb 17 20:11:09 log-collector sshd[2546]: Connection closed by 45.115.45.3 port 52816 [preauth]
+Feb 17 20:15:35 log-collector sshd[2550]: Received disconnect from 125.65.42.192 port 42583:11:  [preauth]
+Feb 17 20:15:35 log-collector sshd[2550]: Disconnected from authenticating user root 125.65.42.192 port 42583 [preauth]
+Feb 17 20:16:24 log-collector sshd[2552]: Invalid user test from 128.14.32.42 port 42088
+Feb 17 20:16:24 log-collector sshd[2552]: Received disconnect from 128.14.32.42 port 42088:11: Bye Bye [preauth]
+Feb 17 20:16:24 log-collector sshd[2552]: Disconnected from invalid user test 128.14.32.42 port 42088 [preauth]
+Feb 17 20:16:27 log-collector sshd[2554]: Invalid user test from 86.43.103.111 port 37632
+Feb 17 20:16:28 log-collector sshd[2554]: Received disconnect from 86.43.103.111 port 37632:11: Bye Bye [preauth]
+Feb 17 20:16:28 log-collector sshd[2554]: Disconnected from invalid user test 86.43.103.111 port 37632 [preauth]
+Feb 17 20:17:01 log-collector CRON[2556]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 20:17:01 log-collector CRON[2556]: pam_unix(cron:session): session closed for user root
+Feb 17 20:18:29 log-collector sshd[2559]: Connection closed by 45.115.45.3 port 53966 [preauth]
+Feb 17 20:20:03 log-collector sshd[2561]: Invalid user pc1 from 95.33.230.144 port 60444
+Feb 17 20:20:03 log-collector sshd[2561]: Received disconnect from 95.33.230.144 port 60444:11: Bye Bye [preauth]
+Feb 17 20:20:03 log-collector sshd[2561]: Disconnected from invalid user pc1 95.33.230.144 port 60444 [preauth]
+Feb 17 20:24:05 log-collector sshd[2564]: Invalid user darwin from 112.175.238.149 port 39642
+Feb 17 20:24:05 log-collector sshd[2564]: Received disconnect from 112.175.238.149 port 39642:11: Bye Bye [preauth]
+Feb 17 20:24:05 log-collector sshd[2564]: Disconnected from invalid user darwin 112.175.238.149 port 39642 [preauth]
+Feb 17 20:24:10 log-collector sshd[2566]: Invalid user postgres from 138.186.179.63 port 53610
+Feb 17 20:24:12 log-collector sshd[2566]: Received disconnect from 138.186.179.63 port 53610:11: Bye Bye [preauth]
+Feb 17 20:24:12 log-collector sshd[2566]: Disconnected from invalid user postgres 138.186.179.63 port 53610 [preauth]
+Feb 17 20:24:20 log-collector sshd[2568]: Invalid user squipp from 190.147.160.151 port 54344
+Feb 17 20:24:20 log-collector sshd[2568]: Received disconnect from 190.147.160.151 port 54344:11: Bye Bye [preauth]
+Feb 17 20:24:20 log-collector sshd[2568]: Disconnected from invalid user squipp 190.147.160.151 port 54344 [preauth]
+Feb 17 20:25:20 log-collector sshd[2570]: Invalid user sttest from 118.89.44.24 port 42706
+Feb 17 20:25:20 log-collector sshd[2570]: Received disconnect from 118.89.44.24 port 42706:11: Bye Bye [preauth]
+Feb 17 20:25:20 log-collector sshd[2570]: Disconnected from invalid user sttest 118.89.44.24 port 42706 [preauth]
+Feb 17 20:25:48 log-collector sshd[2572]: Connection closed by 45.115.45.3 port 55088 [preauth]
+Feb 17 20:33:08 log-collector sshd[2575]: Connection closed by 45.115.45.3 port 56226 [preauth]
+Feb 17 20:40:28 log-collector sshd[2578]: Connection closed by 45.115.45.3 port 57338 [preauth]
+Feb 17 20:41:20 log-collector sshd[2580]: Invalid user kubernetes from 201.139.116.82 port 56372
+Feb 17 20:41:20 log-collector sshd[2580]: Received disconnect from 201.139.116.82 port 56372:11: Bye Bye [preauth]
+Feb 17 20:41:20 log-collector sshd[2580]: Disconnected from invalid user kubernetes 201.139.116.82 port 56372 [preauth]
+Feb 17 20:46:51 log-collector sshd[2583]: Invalid user student1 from 88.209.98.78 port 56905
+Feb 17 20:46:51 log-collector sshd[2583]: Received disconnect from 88.209.98.78 port 56905:11: Bye Bye [preauth]
+Feb 17 20:46:51 log-collector sshd[2583]: Disconnected from invalid user student1 88.209.98.78 port 56905 [preauth]
+Feb 17 20:47:00 log-collector sshd[2585]: Invalid user ts3 from 77.75.32.163 port 43180
+Feb 17 20:47:00 log-collector sshd[2585]: Received disconnect from 77.75.32.163 port 43180:11: Bye Bye [preauth]
+Feb 17 20:47:00 log-collector sshd[2585]: Disconnected from invalid user ts3 77.75.32.163 port 43180 [preauth]
+Feb 17 20:47:49 log-collector sshd[2587]: Connection closed by 45.115.45.3 port 58494 [preauth]
+Feb 17 20:49:46 log-collector sshd[2589]: Invalid user eben from 45.55.158.8 port 42142
+Feb 17 20:49:46 log-collector sshd[2589]: Received disconnect from 45.55.158.8 port 42142:11: Bye Bye [preauth]
+Feb 17 20:49:46 log-collector sshd[2589]: Disconnected from invalid user eben 45.55.158.8 port 42142 [preauth]
+Feb 17 20:52:23 log-collector sshd[2592]: Received disconnect from 66.208.190.12 port 39518:11: Bye Bye [preauth]
+Feb 17 20:52:23 log-collector sshd[2592]: Disconnected from authenticating user root 66.208.190.12 port 39518 [preauth]
+Feb 17 20:52:28 log-collector sshd[2594]: Invalid user airadmin from 184.2.109.232 port 49152
+Feb 17 20:52:29 log-collector sshd[2594]: Received disconnect from 184.2.109.232 port 49152:11: Bye Bye [preauth]
+Feb 17 20:52:29 log-collector sshd[2594]: Disconnected from invalid user airadmin 184.2.109.232 port 49152 [preauth]
+Feb 17 20:52:32 log-collector sshd[2596]: Invalid user consultauio from 201.144.84.93 port 44408
+Feb 17 20:52:33 log-collector sshd[2596]: Received disconnect from 201.144.84.93 port 44408:11: Bye Bye [preauth]
+Feb 17 20:52:33 log-collector sshd[2596]: Disconnected from invalid user consultauio 201.144.84.93 port 44408 [preauth]
+Feb 17 20:52:40 log-collector sshd[2598]: Invalid user guest from 180.250.159.50 port 46450
+Feb 17 20:52:40 log-collector sshd[2598]: Received disconnect from 180.250.159.50 port 46450:11: Bye Bye [preauth]
+Feb 17 20:52:40 log-collector sshd[2598]: Disconnected from invalid user guest 180.250.159.50 port 46450 [preauth]
+Feb 17 20:55:08 log-collector sshd[2600]: Connection closed by 45.115.45.3 port 59640 [preauth]
+Feb 17 21:02:28 log-collector sshd[2603]: Connection closed by 45.115.45.3 port 60768 [preauth]
+Feb 17 21:07:28 log-collector sshd[2606]: Did not receive identification string from 51.68.114.235 port 43230
+Feb 17 21:07:48 log-collector sshd[2607]: Invalid user rtvcm from 68.183.165.130 port 57406
+Feb 17 21:07:48 log-collector sshd[2607]: Received disconnect from 68.183.165.130 port 57406:11: Bye Bye [preauth]
+Feb 17 21:07:48 log-collector sshd[2607]: Disconnected from invalid user rtvcm 68.183.165.130 port 57406 [preauth]
+Feb 17 21:08:50 log-collector sshd[2609]: Invalid user yd from 202.120.1.37 port 36178
+Feb 17 21:08:50 log-collector sshd[2609]: Received disconnect from 202.120.1.37 port 36178:11: Bye Bye [preauth]
+Feb 17 21:08:50 log-collector sshd[2609]: Disconnected from invalid user yd 202.120.1.37 port 36178 [preauth]
+Feb 17 21:09:09 log-collector sshd[2611]: Received disconnect from 51.68.114.235 port 36556:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:09:09 log-collector sshd[2611]: Disconnected from authenticating user root 51.68.114.235 port 36556 [preauth]
+Feb 17 21:09:37 log-collector sshd[2613]: Invalid user tommy from 188.166.1.95 port 32953
+Feb 17 21:09:37 log-collector sshd[2613]: Received disconnect from 188.166.1.95 port 32953:11: Bye Bye [preauth]
+Feb 17 21:09:37 log-collector sshd[2613]: Disconnected from invalid user tommy 188.166.1.95 port 32953 [preauth]
+Feb 17 21:09:46 log-collector sshd[2615]: Connection closed by 45.115.45.3 port 33656 [preauth]
+Feb 17 21:10:28 log-collector sshd[2617]: Invalid user postgres from 51.68.114.235 port 42952
+Feb 17 21:10:28 log-collector sshd[2617]: Received disconnect from 51.68.114.235 port 42952:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:10:28 log-collector sshd[2617]: Disconnected from invalid user postgres 51.68.114.235 port 42952 [preauth]
+Feb 17 21:11:45 log-collector sshd[2619]: Invalid user oracle from 51.68.114.235 port 49321
+Feb 17 21:11:45 log-collector sshd[2619]: Received disconnect from 51.68.114.235 port 49321:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:11:45 log-collector sshd[2619]: Disconnected from invalid user oracle 51.68.114.235 port 49321 [preauth]
+Feb 17 21:12:12 log-collector sshd[2621]: Invalid user elsearch from 204.48.22.64 port 51488
+Feb 17 21:12:12 log-collector sshd[2621]: Received disconnect from 204.48.22.64 port 51488:11: Bye Bye [preauth]
+Feb 17 21:12:12 log-collector sshd[2621]: Disconnected from invalid user elsearch 204.48.22.64 port 51488 [preauth]
+Feb 17 21:12:16 log-collector sshd[2623]: Invalid user usuario from 118.100.69.121 port 35678
+Feb 17 21:12:16 log-collector sshd[2623]: Received disconnect from 118.100.69.121 port 35678:11: Bye Bye [preauth]
+Feb 17 21:12:16 log-collector sshd[2623]: Disconnected from invalid user usuario 118.100.69.121 port 35678 [preauth]
+Feb 17 21:12:18 log-collector sshd[2625]: Invalid user ec2-user from 218.95.182.231 port 49206
+Feb 17 21:12:18 log-collector sshd[2625]: Received disconnect from 218.95.182.231 port 49206:11: Bye Bye [preauth]
+Feb 17 21:12:18 log-collector sshd[2625]: Disconnected from invalid user ec2-user 218.95.182.231 port 49206 [preauth]
+Feb 17 21:12:31 log-collector sshd[2628]: Invalid user test from 138.68.52.165 port 57972
+Feb 17 21:12:31 log-collector sshd[2628]: Received disconnect from 138.68.52.165 port 57972:11: Bye Bye [preauth]
+Feb 17 21:12:31 log-collector sshd[2628]: Disconnected from invalid user test 138.68.52.165 port 57972 [preauth]
+Feb 17 21:12:48 log-collector sshd[2630]: Invalid user share from 54.38.182.128 port 54190
+Feb 17 21:12:48 log-collector sshd[2630]: Received disconnect from 54.38.182.128 port 54190:11: Bye Bye [preauth]
+Feb 17 21:12:48 log-collector sshd[2630]: Disconnected from invalid user share 54.38.182.128 port 54190 [preauth]
+Feb 17 21:13:00 log-collector sshd[2632]: Invalid user oracle from 51.68.114.235 port 55668
+Feb 17 21:13:01 log-collector sshd[2632]: Received disconnect from 51.68.114.235 port 55668:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:13:01 log-collector sshd[2632]: Disconnected from invalid user oracle 51.68.114.235 port 55668 [preauth]
+Feb 17 21:13:32 log-collector sshd[2634]: Invalid user raphael from 61.74.109.80 port 43897
+Feb 17 21:13:32 log-collector sshd[2634]: Received disconnect from 61.74.109.80 port 43897:11: Bye Bye [preauth]
+Feb 17 21:13:32 log-collector sshd[2634]: Disconnected from invalid user raphael 61.74.109.80 port 43897 [preauth]
+Feb 17 21:14:14 log-collector sshd[2636]: Invalid user oracle from 51.68.114.235 port 33808
+Feb 17 21:14:14 log-collector sshd[2636]: Received disconnect from 51.68.114.235 port 33808:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:14:14 log-collector sshd[2636]: Disconnected from invalid user oracle 51.68.114.235 port 33808 [preauth]
+Feb 17 21:15:08 log-collector sshd[2638]: Invalid user paula from 178.62.54.79 port 37610
+Feb 17 21:15:08 log-collector sshd[2638]: Received disconnect from 178.62.54.79 port 37610:11: Bye Bye [preauth]
+Feb 17 21:15:08 log-collector sshd[2638]: Disconnected from invalid user paula 178.62.54.79 port 37610 [preauth]
+Feb 17 21:15:16 log-collector sshd[2640]: Invalid user fmw from 186.120.93.42 port 48500
+Feb 17 21:15:17 log-collector sshd[2640]: Received disconnect from 186.120.93.42 port 48500:11: Bye Bye [preauth]
+Feb 17 21:15:17 log-collector sshd[2640]: Disconnected from invalid user fmw 186.120.93.42 port 48500 [preauth]
+Feb 17 21:15:28 log-collector sshd[2642]: Invalid user oracle from 51.68.114.235 port 40167
+Feb 17 21:15:28 log-collector sshd[2642]: Received disconnect from 51.68.114.235 port 40167:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:15:28 log-collector sshd[2642]: Disconnected from invalid user oracle 51.68.114.235 port 40167 [preauth]
+Feb 17 21:15:44 log-collector sshd[2644]: Invalid user paula from 132.248.59.140 port 41502
+Feb 17 21:15:44 log-collector sshd[2644]: Received disconnect from 132.248.59.140 port 41502:11: Bye Bye [preauth]
+Feb 17 21:15:44 log-collector sshd[2644]: Disconnected from invalid user paula 132.248.59.140 port 41502 [preauth]
+Feb 17 21:16:38 log-collector sshd[2646]: Invalid user test from 51.68.114.235 port 46514
+Feb 17 21:16:38 log-collector sshd[2646]: Received disconnect from 51.68.114.235 port 46514:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:16:38 log-collector sshd[2646]: Disconnected from invalid user test 51.68.114.235 port 46514 [preauth]
+Feb 17 21:17:01 log-collector CRON[2648]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 21:17:01 log-collector CRON[2648]: pam_unix(cron:session): session closed for user root
+Feb 17 21:17:10 log-collector sshd[2651]: Did not receive identification string from 45.115.45.3 port 34792
+Feb 17 21:17:49 log-collector sshd[2653]: Invalid user test from 51.68.114.235 port 52850
+Feb 17 21:17:50 log-collector sshd[2653]: Received disconnect from 51.68.114.235 port 52850:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:17:50 log-collector sshd[2653]: Disconnected from invalid user test 51.68.114.235 port 52850 [preauth]
+Feb 17 21:18:59 log-collector sshd[2656]: Invalid user test from 51.68.114.235 port 59189
+Feb 17 21:18:59 log-collector sshd[2656]: Received disconnect from 51.68.114.235 port 59189:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:18:59 log-collector sshd[2656]: Disconnected from invalid user test 51.68.114.235 port 59189 [preauth]
+Feb 17 21:19:39 log-collector sshd[2658]: Invalid user nuucp from 187.16.185.90 port 25126
+Feb 17 21:19:39 log-collector sshd[2658]: Received disconnect from 187.16.185.90 port 25126:11: Bye Bye [preauth]
+Feb 17 21:19:39 log-collector sshd[2658]: Disconnected from invalid user nuucp 187.16.185.90 port 25126 [preauth]
+Feb 17 21:19:55 log-collector sshd[2660]: Invalid user internet from 93.90.200.187 port 57126
+Feb 17 21:19:56 log-collector sshd[2660]: Received disconnect from 93.90.200.187 port 57126:11: Bye Bye [preauth]
+Feb 17 21:19:56 log-collector sshd[2660]: Disconnected from invalid user internet 93.90.200.187 port 57126 [preauth]
+Feb 17 21:20:05 log-collector sshd[2662]: Invalid user test1 from 83.132.134.123 port 40329
+Feb 17 21:20:06 log-collector sshd[2662]: Received disconnect from 83.132.134.123 port 40329:11: Bye Bye [preauth]
+Feb 17 21:20:06 log-collector sshd[2662]: Disconnected from invalid user test1 83.132.134.123 port 40329 [preauth]
+Feb 17 21:20:08 log-collector sshd[2664]: Invalid user test from 51.68.114.235 port 37273
+Feb 17 21:20:08 log-collector sshd[2664]: Received disconnect from 51.68.114.235 port 37273:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:20:08 log-collector sshd[2664]: Disconnected from invalid user test 51.68.114.235 port 37273 [preauth]
+Feb 17 21:20:20 log-collector sshd[2666]: Invalid user nuucp from 190.196.33.42 port 48819
+Feb 17 21:20:21 log-collector sshd[2666]: Received disconnect from 190.196.33.42 port 48819:11: Bye Bye [preauth]
+Feb 17 21:20:21 log-collector sshd[2666]: Disconnected from invalid user nuucp 190.196.33.42 port 48819 [preauth]
+Feb 17 21:21:21 log-collector sshd[2668]: Invalid user test from 51.68.114.235 port 43630
+Feb 17 21:21:21 log-collector sshd[2668]: Received disconnect from 51.68.114.235 port 43630:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:21:21 log-collector sshd[2668]: Disconnected from invalid user test 51.68.114.235 port 43630 [preauth]
+Feb 17 21:22:14 log-collector sshd[2670]: Invalid user haresh from 45.55.188.133 port 55685
+Feb 17 21:22:14 log-collector sshd[2670]: Received disconnect from 45.55.188.133 port 55685:11: Bye Bye [preauth]
+Feb 17 21:22:14 log-collector sshd[2670]: Disconnected from invalid user haresh 45.55.188.133 port 55685 [preauth]
+Feb 17 21:22:35 log-collector sshd[2672]: Invalid user tomcat from 51.68.114.235 port 49986
+Feb 17 21:22:35 log-collector sshd[2672]: Received disconnect from 51.68.114.235 port 49986:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:22:35 log-collector sshd[2672]: Disconnected from invalid user tomcat 51.68.114.235 port 49986 [preauth]
+Feb 17 21:22:47 log-collector sshd[2674]: Invalid user charlotte from 45.55.35.40 port 58610
+Feb 17 21:22:47 log-collector sshd[2674]: Received disconnect from 45.55.35.40 port 58610:11: Bye Bye [preauth]
+Feb 17 21:22:47 log-collector sshd[2674]: Disconnected from invalid user charlotte 45.55.35.40 port 58610 [preauth]
+Feb 17 21:22:53 log-collector sshd[2677]: Invalid user haresh from 104.248.24.192 port 42822
+Feb 17 21:22:53 log-collector sshd[2677]: Received disconnect from 104.248.24.192 port 42822:11: Bye Bye [preauth]
+Feb 17 21:22:53 log-collector sshd[2677]: Disconnected from invalid user haresh 104.248.24.192 port 42822 [preauth]
+Feb 17 21:22:57 log-collector sshd[2679]: Invalid user charlotte from 77.253.211.3 port 44252
+Feb 17 21:22:57 log-collector sshd[2679]: Received disconnect from 77.253.211.3 port 44252:11: Bye Bye [preauth]
+Feb 17 21:22:57 log-collector sshd[2679]: Disconnected from invalid user charlotte 77.253.211.3 port 44252 [preauth]
+Feb 17 21:23:48 log-collector sshd[2681]: Invalid user server from 51.68.114.235 port 56341
+Feb 17 21:23:48 log-collector sshd[2681]: Received disconnect from 51.68.114.235 port 56341:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:23:48 log-collector sshd[2681]: Disconnected from invalid user server 51.68.114.235 port 56341 [preauth]
+Feb 17 21:24:25 log-collector sshd[2683]: Connection closed by 45.115.45.3 port 35930 [preauth]
+Feb 17 21:24:58 log-collector sshd[2685]: Invalid user test from 51.68.114.235 port 34431
+Feb 17 21:24:58 log-collector sshd[2685]: Received disconnect from 51.68.114.235 port 34431:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:24:58 log-collector sshd[2685]: Disconnected from invalid user test 51.68.114.235 port 34431 [preauth]
+Feb 17 21:26:10 log-collector sshd[2687]: Received disconnect from 51.68.114.235 port 40766:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:26:10 log-collector sshd[2687]: Disconnected from authenticating user root 51.68.114.235 port 40766 [preauth]
+Feb 17 21:26:19 log-collector sshd[2689]: Invalid user admin from 46.173.47.39 port 36238
+Feb 17 21:26:20 log-collector sshd[2689]: error: maximum authentication attempts exceeded for invalid user admin from 46.173.47.39 port 36238 ssh2 [preauth]
+Feb 17 21:26:20 log-collector sshd[2689]: Disconnecting invalid user admin 46.173.47.39 port 36238: Too many authentication failures [preauth]
+Feb 17 21:27:23 log-collector sshd[2691]: Invalid user user from 51.68.114.235 port 47118
+Feb 17 21:27:23 log-collector sshd[2691]: Received disconnect from 51.68.114.235 port 47118:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:27:23 log-collector sshd[2691]: Disconnected from invalid user user 51.68.114.235 port 47118 [preauth]
+Feb 17 21:28:36 log-collector sshd[2694]: Invalid user apache from 51.68.114.235 port 53475
+Feb 17 21:28:36 log-collector sshd[2694]: Received disconnect from 51.68.114.235 port 53475:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:28:36 log-collector sshd[2694]: Disconnected from invalid user apache 51.68.114.235 port 53475 [preauth]
+Feb 17 21:29:48 log-collector sshd[2696]: Received disconnect from 51.68.114.235 port 59837:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:29:48 log-collector sshd[2696]: Disconnected from authenticating user root 51.68.114.235 port 59837 [preauth]
+Feb 17 21:31:01 log-collector sshd[2698]: Invalid user content from 51.68.114.235 port 37936
+Feb 17 21:31:02 log-collector sshd[2698]: Received disconnect from 51.68.114.235 port 37936:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:31:02 log-collector sshd[2698]: Disconnected from invalid user content 51.68.114.235 port 37936 [preauth]
+Feb 17 21:31:45 log-collector sshd[2700]: Connection closed by 45.115.45.3 port 37082 [preauth]
+Feb 17 21:32:13 log-collector sshd[2702]: Invalid user myassetreport from 54.38.78.44 port 42722
+Feb 17 21:32:13 log-collector sshd[2702]: Received disconnect from 54.38.78.44 port 42722:11: Bye Bye [preauth]
+Feb 17 21:32:13 log-collector sshd[2702]: Disconnected from invalid user myassetreport 54.38.78.44 port 42722 [preauth]
+Feb 17 21:32:13 log-collector sshd[2704]: Invalid user content from 51.68.114.235 port 44281
+Feb 17 21:32:14 log-collector sshd[2704]: Received disconnect from 51.68.114.235 port 44281:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:32:14 log-collector sshd[2704]: Disconnected from invalid user content 51.68.114.235 port 44281 [preauth]
+Feb 17 21:32:17 log-collector sshd[2706]: Invalid user superuser from 89.187.228.99 port 46468
+Feb 17 21:32:17 log-collector sshd[2706]: Received disconnect from 89.187.228.99 port 46468:11: Bye Bye [preauth]
+Feb 17 21:32:17 log-collector sshd[2706]: Disconnected from invalid user superuser 89.187.228.99 port 46468 [preauth]
+Feb 17 21:32:21 log-collector sshd[2708]: Invalid user myassetreport from 93.51.29.92 port 53874
+Feb 17 21:32:21 log-collector sshd[2708]: Received disconnect from 93.51.29.92 port 53874:11: Bye Bye [preauth]
+Feb 17 21:32:21 log-collector sshd[2708]: Disconnected from invalid user myassetreport 93.51.29.92 port 53874 [preauth]
+Feb 17 21:33:07 log-collector sshd[2710]: Invalid user cacti from 41.230.56.204 port 54456
+Feb 17 21:33:08 log-collector sshd[2710]: Received disconnect from 41.230.56.204 port 54456:11: Bye Bye [preauth]
+Feb 17 21:33:08 log-collector sshd[2710]: Disconnected from invalid user cacti 41.230.56.204 port 54456 [preauth]
+Feb 17 21:33:22 log-collector sshd[2712]: Invalid user alice from 139.59.108.237 port 39796
+Feb 17 21:33:22 log-collector sshd[2712]: Received disconnect from 139.59.108.237 port 39796:11: Bye Bye [preauth]
+Feb 17 21:33:22 log-collector sshd[2712]: Disconnected from invalid user alice 139.59.108.237 port 39796 [preauth]
+Feb 17 21:33:29 log-collector sshd[2714]: Received disconnect from 51.68.114.235 port 50637:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:33:29 log-collector sshd[2714]: Disconnected from authenticating user root 51.68.114.235 port 50637 [preauth]
+Feb 17 21:34:46 log-collector sshd[2717]: Received disconnect from 51.68.114.235 port 57011:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:34:46 log-collector sshd[2717]: Disconnected from authenticating user root 51.68.114.235 port 57011 [preauth]
+Feb 17 21:36:03 log-collector sshd[2719]: Received disconnect from 51.68.114.235 port 35155:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:36:03 log-collector sshd[2719]: Disconnected from authenticating user root 51.68.114.235 port 35155 [preauth]
+Feb 17 21:36:28 log-collector sshd[2721]: Invalid user upload from 23.25.72.234 port 54360
+Feb 17 21:36:28 log-collector sshd[2721]: Received disconnect from 23.25.72.234 port 54360:11: Bye Bye [preauth]
+Feb 17 21:36:28 log-collector sshd[2721]: Disconnected from invalid user upload 23.25.72.234 port 54360 [preauth]
+Feb 17 21:36:31 log-collector sshd[2723]: Invalid user wp from 213.190.194.227 port 40938
+Feb 17 21:36:31 log-collector sshd[2723]: Received disconnect from 213.190.194.227 port 40938:11: Bye Bye [preauth]
+Feb 17 21:36:31 log-collector sshd[2723]: Disconnected from invalid user wp 213.190.194.227 port 40938 [preauth]
+Feb 17 21:36:37 log-collector sshd[2725]: Invalid user www from 182.156.225.92 port 42657
+Feb 17 21:36:38 log-collector sshd[2725]: Received disconnect from 182.156.225.92 port 42657:11: Bye Bye [preauth]
+Feb 17 21:36:38 log-collector sshd[2725]: Disconnected from invalid user www 182.156.225.92 port 42657 [preauth]
+Feb 17 21:37:18 log-collector sshd[2727]: Received disconnect from 51.68.114.235 port 41534:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:37:18 log-collector sshd[2727]: Disconnected from authenticating user root 51.68.114.235 port 41534 [preauth]
+Feb 17 21:37:57 log-collector sshd[2729]: Invalid user myassetreport from 125.75.47.48 port 41472
+Feb 17 21:37:57 log-collector sshd[2729]: Received disconnect from 125.75.47.48 port 41472:11: Bye Bye [preauth]
+Feb 17 21:37:57 log-collector sshd[2729]: Disconnected from invalid user myassetreport 125.75.47.48 port 41472 [preauth]
+Feb 17 21:38:24 log-collector sshd[2731]: Invalid user myassetreport from 159.89.80.104 port 43361
+Feb 17 21:38:24 log-collector sshd[2731]: Received disconnect from 159.89.80.104 port 43361:11: Bye Bye [preauth]
+Feb 17 21:38:24 log-collector sshd[2731]: Disconnected from invalid user myassetreport 159.89.80.104 port 43361 [preauth]
+Feb 17 21:38:31 log-collector sshd[2733]: Received disconnect from 51.68.114.235 port 47875:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:38:31 log-collector sshd[2733]: Disconnected from authenticating user root 51.68.114.235 port 47875 [preauth]
+Feb 17 21:38:45 log-collector sshd[2735]: Invalid user myassetreport from 60.190.176.70 port 59962
+Feb 17 21:38:45 log-collector sshd[2735]: Received disconnect from 60.190.176.70 port 59962:11: Bye Bye [preauth]
+Feb 17 21:38:45 log-collector sshd[2735]: Disconnected from invalid user myassetreport 60.190.176.70 port 59962 [preauth]
+Feb 17 21:38:58 log-collector sshd[2737]: Invalid user emiliojose from 95.173.186.148 port 58108
+Feb 17 21:38:58 log-collector sshd[2737]: Received disconnect from 95.173.186.148 port 58108:11: Bye Bye [preauth]
+Feb 17 21:38:58 log-collector sshd[2737]: Disconnected from invalid user emiliojose 95.173.186.148 port 58108 [preauth]
+Feb 17 21:39:04 log-collector sshd[2739]: Connection closed by 45.115.45.3 port 38242 [preauth]
+Feb 17 21:39:45 log-collector sshd[2741]: Received disconnect from 51.68.114.235 port 54215:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:39:45 log-collector sshd[2741]: Disconnected from authenticating user root 51.68.114.235 port 54215 [preauth]
+Feb 17 21:40:11 log-collector sshd[2744]: Invalid user nexus from 78.163.168.128 port 47925
+Feb 17 21:40:12 log-collector sshd[2744]: Received disconnect from 78.163.168.128 port 47925:11: Bye Bye [preauth]
+Feb 17 21:40:12 log-collector sshd[2744]: Disconnected from invalid user nexus 78.163.168.128 port 47925 [preauth]
+Feb 17 21:40:34 log-collector sshd[2746]: Invalid user myassetreport from 119.29.175.160 port 60728
+Feb 17 21:40:34 log-collector sshd[2746]: Received disconnect from 119.29.175.160 port 60728:11: Bye Bye [preauth]
+Feb 17 21:40:34 log-collector sshd[2746]: Disconnected from invalid user myassetreport 119.29.175.160 port 60728 [preauth]
+Feb 17 21:40:58 log-collector sshd[2748]: Received disconnect from 51.68.114.235 port 60570:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:40:58 log-collector sshd[2748]: Disconnected from authenticating user root 51.68.114.235 port 60570 [preauth]
+Feb 17 21:41:22 log-collector sshd[2750]: Connection closed by 204.44.82.103 port 36674 [preauth]
+Feb 17 21:42:12 log-collector sshd[2752]: Received disconnect from 51.68.114.235 port 38699:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:42:12 log-collector sshd[2752]: Disconnected from authenticating user root 51.68.114.235 port 38699 [preauth]
+Feb 17 21:42:58 log-collector sshd[2754]: Received disconnect from 222.186.30.71 port 52142:11:  [preauth]
+Feb 17 21:42:58 log-collector sshd[2754]: Disconnected from authenticating user root 222.186.30.71 port 52142 [preauth]
+Feb 17 21:43:19 log-collector sshd[2756]: Received disconnect from 36.156.24.94 port 48922:11:  [preauth]
+Feb 17 21:43:19 log-collector sshd[2756]: Disconnected from authenticating user root 36.156.24.94 port 48922 [preauth]
+Feb 17 21:43:25 log-collector sshd[2758]: Received disconnect from 51.68.114.235 port 45054:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:43:25 log-collector sshd[2758]: Disconnected from authenticating user root 51.68.114.235 port 45054 [preauth]
+Feb 17 21:44:37 log-collector sshd[2760]: Received disconnect from 51.68.114.235 port 51403:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:44:37 log-collector sshd[2760]: Disconnected from authenticating user root 51.68.114.235 port 51403 [preauth]
+Feb 17 21:45:29 log-collector sshd[2763]: Invalid user test from 189.204.105.202 port 54890
+Feb 17 21:45:29 log-collector sshd[2763]: Received disconnect from 189.204.105.202 port 54890:11: Bye Bye [preauth]
+Feb 17 21:45:29 log-collector sshd[2763]: Disconnected from invalid user test 189.204.105.202 port 54890 [preauth]
+Feb 17 21:45:52 log-collector sshd[2765]: Invalid user upload from 51.68.114.235 port 57768
+Feb 17 21:45:52 log-collector sshd[2765]: Received disconnect from 51.68.114.235 port 57768:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:45:52 log-collector sshd[2765]: Disconnected from invalid user upload 51.68.114.235 port 57768 [preauth]
+Feb 17 21:46:27 log-collector sshd[2767]: Connection closed by 45.115.45.3 port 39382 [preauth]
+Feb 17 21:47:07 log-collector sshd[2769]: Invalid user debian from 51.68.114.235 port 35899
+Feb 17 21:47:07 log-collector sshd[2769]: Received disconnect from 51.68.114.235 port 35899:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:47:07 log-collector sshd[2769]: Disconnected from invalid user debian 51.68.114.235 port 35899 [preauth]
+Feb 17 21:48:23 log-collector sshd[2771]: Received disconnect from 51.68.114.235 port 42263:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:48:23 log-collector sshd[2771]: Disconnected from authenticating user root 51.68.114.235 port 42263 [preauth]
+Feb 17 21:49:03 log-collector sshd[2773]: Invalid user jairo from 41.76.149.212 port 48788
+Feb 17 21:49:03 log-collector sshd[2773]: Received disconnect from 41.76.149.212 port 48788:11: Bye Bye [preauth]
+Feb 17 21:49:03 log-collector sshd[2773]: Disconnected from invalid user jairo 41.76.149.212 port 48788 [preauth]
+Feb 17 21:49:38 log-collector sshd[2775]: Received disconnect from 51.68.114.235 port 48626:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:49:38 log-collector sshd[2775]: Disconnected from authenticating user root 51.68.114.235 port 48626 [preauth]
+Feb 17 21:49:49 log-collector sshd[2777]: Invalid user dstat from 177.203.133.130 port 41364
+Feb 17 21:49:49 log-collector sshd[2777]: Received disconnect from 177.203.133.130 port 41364:11: Bye Bye [preauth]
+Feb 17 21:49:49 log-collector sshd[2777]: Disconnected from invalid user dstat 177.203.133.130 port 41364 [preauth]
+Feb 17 21:50:44 log-collector sshd[2780]: Invalid user sanchez from 119.29.243.100 port 56348
+Feb 17 21:50:44 log-collector sshd[2780]: Received disconnect from 119.29.243.100 port 56348:11: Bye Bye [preauth]
+Feb 17 21:50:44 log-collector sshd[2780]: Disconnected from invalid user sanchez 119.29.243.100 port 56348 [preauth]
+Feb 17 21:50:51 log-collector sshd[2782]: Received disconnect from 51.68.114.235 port 54983:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:50:51 log-collector sshd[2782]: Disconnected from authenticating user root 51.68.114.235 port 54983 [preauth]
+Feb 17 21:50:59 log-collector sshd[2784]: Invalid user newuser from 51.75.65.72 port 52908
+Feb 17 21:50:59 log-collector sshd[2784]: Received disconnect from 51.75.65.72 port 52908:11: Bye Bye [preauth]
+Feb 17 21:50:59 log-collector sshd[2784]: Disconnected from invalid user newuser 51.75.65.72 port 52908 [preauth]
+Feb 17 21:51:03 log-collector sshd[2786]: Invalid user servercsgo from 158.69.121.144 port 42916
+Feb 17 21:51:04 log-collector sshd[2786]: Received disconnect from 158.69.121.144 port 42916:11: Bye Bye [preauth]
+Feb 17 21:51:04 log-collector sshd[2786]: Disconnected from invalid user servercsgo 158.69.121.144 port 42916 [preauth]
+Feb 17 21:52:04 log-collector sshd[2788]: Invalid user student from 51.68.114.235 port 33100
+Feb 17 21:52:04 log-collector sshd[2788]: Received disconnect from 51.68.114.235 port 33100:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:52:04 log-collector sshd[2788]: Disconnected from invalid user student 51.68.114.235 port 33100 [preauth]
+Feb 17 21:52:16 log-collector sshd[2790]: Invalid user archive from 219.92.41.112 port 53287
+Feb 17 21:52:17 log-collector sshd[2790]: Received disconnect from 219.92.41.112 port 53287:11: Bye Bye [preauth]
+Feb 17 21:52:17 log-collector sshd[2790]: Disconnected from invalid user archive 219.92.41.112 port 53287 [preauth]
+Feb 17 21:52:17 log-collector sshd[2792]: Invalid user testftp from 94.177.235.13 port 47802
+Feb 17 21:52:17 log-collector sshd[2792]: Received disconnect from 94.177.235.13 port 47802:11: Bye Bye [preauth]
+Feb 17 21:52:17 log-collector sshd[2792]: Disconnected from invalid user testftp 94.177.235.13 port 47802 [preauth]
+Feb 17 21:53:12 log-collector sshd[2794]: Received disconnect from 223.111.139.211 port 58734:11:  [preauth]
+Feb 17 21:53:12 log-collector sshd[2794]: Disconnected from authenticating user root 223.111.139.211 port 58734 [preauth]
+Feb 17 21:53:16 log-collector sshd[2796]: Received disconnect from 51.68.114.235 port 39459:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:53:16 log-collector sshd[2796]: Disconnected from authenticating user www-data 51.68.114.235 port 39459 [preauth]
+Feb 17 21:53:36 log-collector sshd[2798]: Invalid user zjx from 186.121.243.138 port 34917
+Feb 17 21:53:36 log-collector sshd[2798]: Received disconnect from 186.121.243.138 port 34917:11: Bye Bye [preauth]
+Feb 17 21:53:36 log-collector sshd[2798]: Disconnected from invalid user zjx 186.121.243.138 port 34917 [preauth]
+Feb 17 21:53:45 log-collector sshd[2800]: Connection closed by 45.115.45.3 port 40506 [preauth]
+Feb 17 21:53:56 log-collector sshd[2802]: Invalid user zjx from 104.131.37.34 port 36793
+Feb 17 21:53:56 log-collector sshd[2802]: Received disconnect from 104.131.37.34 port 36793:11: Bye Bye [preauth]
+Feb 17 21:53:56 log-collector sshd[2802]: Disconnected from invalid user zjx 104.131.37.34 port 36793 [preauth]
+Feb 17 21:53:57 log-collector sshd[2804]: Invalid user user04 from 104.248.28.73 port 55080
+Feb 17 21:53:58 log-collector sshd[2804]: Received disconnect from 104.248.28.73 port 55080:11: Bye Bye [preauth]
+Feb 17 21:53:58 log-collector sshd[2804]: Disconnected from invalid user user04 104.248.28.73 port 55080 [preauth]
+Feb 17 21:54:28 log-collector sshd[2807]: Invalid user alex from 51.68.114.235 port 45808
+Feb 17 21:54:28 log-collector sshd[2807]: Received disconnect from 51.68.114.235 port 45808:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:54:28 log-collector sshd[2807]: Disconnected from invalid user alex 51.68.114.235 port 45808 [preauth]
+Feb 17 21:55:41 log-collector sshd[2809]: Invalid user orange from 51.68.114.235 port 52167
+Feb 17 21:55:41 log-collector sshd[2809]: Received disconnect from 51.68.114.235 port 52167:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:55:41 log-collector sshd[2809]: Disconnected from invalid user orange 51.68.114.235 port 52167 [preauth]
+Feb 17 21:56:52 log-collector sshd[2812]: Invalid user postgres from 51.68.114.235 port 58518
+Feb 17 21:56:52 log-collector sshd[2812]: Received disconnect from 51.68.114.235 port 58518:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:56:52 log-collector sshd[2812]: Disconnected from invalid user postgres 51.68.114.235 port 58518 [preauth]
+Feb 17 21:58:01 log-collector sshd[2814]: Invalid user victor from 51.68.114.235 port 36605
+Feb 17 21:58:02 log-collector sshd[2814]: Received disconnect from 51.68.114.235 port 36605:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:58:02 log-collector sshd[2814]: Disconnected from invalid user victor 51.68.114.235 port 36605 [preauth]
+Feb 17 21:59:13 log-collector sshd[2816]: Invalid user svn from 51.68.114.235 port 42935
+Feb 17 21:59:13 log-collector sshd[2816]: Received disconnect from 51.68.114.235 port 42935:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 21:59:13 log-collector sshd[2816]: Disconnected from invalid user svn 51.68.114.235 port 42935 [preauth]
+Feb 17 22:00:09 log-collector sshd[2818]: Invalid user morena from 51.77.146.140 port 34791
+Feb 17 22:00:09 log-collector sshd[2818]: Received disconnect from 51.77.146.140 port 34791:11: Bye Bye [preauth]
+Feb 17 22:00:09 log-collector sshd[2818]: Disconnected from invalid user morena 51.77.146.140 port 34791 [preauth]
+Feb 17 22:00:28 log-collector sshd[2820]: Received disconnect from 51.68.114.235 port 49318:11: Normal Shutdown, Thank you for playing [preauth]
+Feb 17 22:00:28 log-collector sshd[2820]: Disconnected from authenticating user root 51.68.114.235 port 49318 [preauth]
+Feb 17 22:01:04 log-collector sshd[2822]: Connection closed by 45.115.45.3 port 41642 [preauth]
+Feb 17 22:01:09 log-collector sshd[2824]: Received disconnect from 122.226.181.167 port 59482:11:  [preauth]
+Feb 17 22:01:09 log-collector sshd[2824]: Disconnected from authenticating user root 122.226.181.167 port 59482 [preauth]
+Feb 17 22:01:10 log-collector sshd[2826]: Invalid user morena from 5.3.6.82 port 37898
+Feb 17 22:01:11 log-collector sshd[2826]: Received disconnect from 5.3.6.82 port 37898:11: Bye Bye [preauth]
+Feb 17 22:01:11 log-collector sshd[2826]: Disconnected from invalid user morena 5.3.6.82 port 37898 [preauth]
+Feb 17 22:01:51 log-collector sshd[2828]: Invalid user osni from 51.38.65.154 port 59170
+Feb 17 22:01:52 log-collector sshd[2828]: Received disconnect from 51.38.65.154 port 59170:11: Bye Bye [preauth]
+Feb 17 22:01:52 log-collector sshd[2828]: Disconnected from invalid user osni 51.38.65.154 port 59170 [preauth]
+Feb 17 22:02:03 log-collector sshd[2831]: Invalid user new from 139.59.249.255 port 37474
+Feb 17 22:02:03 log-collector sshd[2831]: Received disconnect from 139.59.249.255 port 37474:11: Bye Bye [preauth]
+Feb 17 22:02:03 log-collector sshd[2831]: Disconnected from invalid user new 139.59.249.255 port 37474 [preauth]
+Feb 17 22:02:27 log-collector sshd[2833]: Invalid user nano from 185.18.226.227 port 57355
+Feb 17 22:02:28 log-collector sshd[2833]: Received disconnect from 185.18.226.227 port 57355:11: Bye Bye [preauth]
+Feb 17 22:02:28 log-collector sshd[2833]: Disconnected from invalid user nano 185.18.226.227 port 57355 [preauth]
+Feb 17 22:08:21 log-collector sshd[2837]: Connection closed by 45.115.45.3 port 42780 [preauth]
+Feb 17 22:09:14 log-collector sshd[2841]: Invalid user nagios from 198.46.182.139 port 54482
+Feb 17 22:09:14 log-collector sshd[2841]: Received disconnect from 198.46.182.139 port 54482:11: Bye Bye [preauth]
+Feb 17 22:09:14 log-collector sshd[2841]: Disconnected from invalid user nagios 198.46.182.139 port 54482 [preauth]
+Feb 17 22:09:14 log-collector sshd[2839]: Invalid user nagios from 51.15.36.163 port 36826
+Feb 17 22:09:15 log-collector sshd[2839]: Received disconnect from 51.15.36.163 port 36826:11: Bye Bye [preauth]
+Feb 17 22:09:15 log-collector sshd[2839]: Disconnected from invalid user nagios 51.15.36.163 port 36826 [preauth]
+Feb 17 22:11:24 log-collector sshd[2843]: Invalid user nagios from 36.110.217.176 port 49288
+Feb 17 22:11:25 log-collector sshd[2843]: Received disconnect from 36.110.217.176 port 49288:11: Bye Bye [preauth]
+Feb 17 22:11:25 log-collector sshd[2843]: Disconnected from invalid user nagios 36.110.217.176 port 49288 [preauth]
+Feb 17 22:12:48 log-collector sshd[2845]: Received disconnect from 181.123.8.32 port 54626:11: Bye Bye [preauth]
+Feb 17 22:12:48 log-collector sshd[2845]: Disconnected from authenticating user root 181.123.8.32 port 54626 [preauth]
+Feb 17 22:12:59 log-collector sshd[2847]: Invalid user media from 188.166.81.123 port 37562
+Feb 17 22:12:59 log-collector sshd[2847]: Received disconnect from 188.166.81.123 port 37562:11: Bye Bye [preauth]
+Feb 17 22:12:59 log-collector sshd[2847]: Disconnected from invalid user media 188.166.81.123 port 37562 [preauth]
+Feb 17 22:15:01 log-collector sshd[2850]: Invalid user sam from 89.96.103.170 port 62346
+Feb 17 22:15:01 log-collector sshd[2850]: Received disconnect from 89.96.103.170 port 62346:11: Bye Bye [preauth]
+Feb 17 22:15:01 log-collector sshd[2850]: Disconnected from invalid user sam 89.96.103.170 port 62346 [preauth]
+Feb 17 22:15:37 log-collector sshd[2852]: Received disconnect from 122.226.181.164 port 45920:11:  [preauth]
+Feb 17 22:15:37 log-collector sshd[2852]: Disconnected from authenticating user root 122.226.181.164 port 45920 [preauth]
+Feb 17 22:15:39 log-collector sshd[2854]: Connection closed by 45.115.45.3 port 43894 [preauth]
+Feb 17 22:16:50 log-collector sshd[2856]: Invalid user sam from 96.30.65.147 port 47384
+Feb 17 22:16:51 log-collector sshd[2856]: Received disconnect from 96.30.65.147 port 47384:11: Bye Bye [preauth]
+Feb 17 22:16:51 log-collector sshd[2856]: Disconnected from invalid user sam 96.30.65.147 port 47384 [preauth]
+Feb 17 22:17:01 log-collector CRON[2858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 22:17:01 log-collector CRON[2858]: pam_unix(cron:session): session closed for user root
+Feb 17 22:17:43 log-collector sshd[2861]: Invalid user lines from 159.65.173.108 port 48952
+Feb 17 22:17:43 log-collector sshd[2861]: Received disconnect from 159.65.173.108 port 48952:11: Bye Bye [preauth]
+Feb 17 22:17:43 log-collector sshd[2861]: Disconnected from invalid user lines 159.65.173.108 port 48952 [preauth]
+Feb 17 22:17:51 log-collector sshd[2863]: Received disconnect from 223.111.139.244 port 55024:11:  [preauth]
+Feb 17 22:17:51 log-collector sshd[2863]: Disconnected from authenticating user root 223.111.139.244 port 55024 [preauth]
+Feb 17 22:18:07 log-collector sshd[2865]: Invalid user toor from 118.97.33.75 port 56307
+Feb 17 22:18:07 log-collector sshd[2865]: Received disconnect from 118.97.33.75 port 56307:11: Bye Bye [preauth]
+Feb 17 22:18:07 log-collector sshd[2865]: Disconnected from invalid user toor 118.97.33.75 port 56307 [preauth]
+Feb 17 22:18:33 log-collector sshd[2867]: Invalid user test from 180.76.162.111 port 58639
+Feb 17 22:18:34 log-collector sshd[2867]: Received disconnect from 180.76.162.111 port 58639:11: Bye Bye [preauth]
+Feb 17 22:18:34 log-collector sshd[2867]: Disconnected from invalid user test 180.76.162.111 port 58639 [preauth]
+Feb 17 22:21:37 log-collector sshd[2870]: Invalid user nagios from 186.148.188.94 port 48350
+Feb 17 22:21:37 log-collector sshd[2870]: Received disconnect from 186.148.188.94 port 48350:11: Bye Bye [preauth]
+Feb 17 22:21:37 log-collector sshd[2870]: Disconnected from invalid user nagios 186.148.188.94 port 48350 [preauth]
+Feb 17 22:21:43 log-collector sshd[2872]: Invalid user jon from 178.128.55.58 port 38002
+Feb 17 22:21:43 log-collector sshd[2872]: Received disconnect from 178.128.55.58 port 38002:11: Bye Bye [preauth]
+Feb 17 22:21:43 log-collector sshd[2872]: Disconnected from invalid user jon 178.128.55.58 port 38002 [preauth]
+Feb 17 22:22:57 log-collector sshd[2874]: Connection closed by 45.115.45.3 port 45046 [preauth]
+Feb 17 22:25:13 log-collector sshd[2876]: Received disconnect from 61.184.247.6 port 41395:11:  [preauth]
+Feb 17 22:25:13 log-collector sshd[2876]: Disconnected from authenticating user root 61.184.247.6 port 41395 [preauth]
+Feb 17 22:28:12 log-collector sshd[2879]: Connection closed by 61.184.247.11 port 50974 [preauth]
+Feb 17 22:30:17 log-collector sshd[2881]: Connection closed by 45.115.45.3 port 46194 [preauth]
+Feb 17 22:30:56 log-collector sshd[2883]: Invalid user steam from 27.115.15.8 port 57145
+Feb 17 22:30:57 log-collector sshd[2883]: Received disconnect from 27.115.15.8 port 57145:11: Bye Bye [preauth]
+Feb 17 22:30:57 log-collector sshd[2883]: Disconnected from invalid user steam 27.115.15.8 port 57145 [preauth]
+Feb 17 22:31:08 log-collector sshd[2885]: Invalid user pi from 216.144.252.122 port 46806
+Feb 17 22:31:08 log-collector sshd[2885]: Received disconnect from 216.144.252.122 port 46806:11: Bye Bye [preauth]
+Feb 17 22:31:08 log-collector sshd[2885]: Disconnected from invalid user pi 216.144.252.122 port 46806 [preauth]
+Feb 17 22:31:54 log-collector sshd[2887]: Invalid user mcserver from 54.36.114.101 port 45224
+Feb 17 22:31:54 log-collector sshd[2887]: Received disconnect from 54.36.114.101 port 45224:11: Bye Bye [preauth]
+Feb 17 22:31:54 log-collector sshd[2887]: Disconnected from invalid user mcserver 54.36.114.101 port 45224 [preauth]
+Feb 17 22:32:40 log-collector sshd[2890]: Invalid user ofbiz from 35.204.109.99 port 43380
+Feb 17 22:32:41 log-collector sshd[2890]: Received disconnect from 35.204.109.99 port 43380:11: Bye Bye [preauth]
+Feb 17 22:32:41 log-collector sshd[2890]: Disconnected from invalid user ofbiz 35.204.109.99 port 43380 [preauth]
+Feb 17 22:37:38 log-collector sshd[2893]: Connection closed by 45.115.45.3 port 47324 [preauth]
+Feb 17 22:38:40 log-collector sshd[2895]: Invalid user pedro from 139.219.188.97 port 40623
+Feb 17 22:38:40 log-collector sshd[2895]: Received disconnect from 139.219.188.97 port 40623:11: Bye Bye [preauth]
+Feb 17 22:38:40 log-collector sshd[2895]: Disconnected from invalid user pedro 139.219.188.97 port 40623 [preauth]
+Feb 17 22:42:34 log-collector sshd[2897]: Invalid user support from 115.49.1.194 port 43085
+Feb 17 22:42:35 log-collector sshd[2897]: error: maximum authentication attempts exceeded for invalid user support from 115.49.1.194 port 43085 ssh2 [preauth]
+Feb 17 22:42:35 log-collector sshd[2897]: Disconnecting invalid user support 115.49.1.194 port 43085: Too many authentication failures [preauth]
+Feb 17 22:44:55 log-collector sshd[2900]: Connection closed by 45.115.45.3 port 48468 [preauth]
+Feb 17 22:47:08 log-collector sshd[2902]: Invalid user marcia from 223.196.87.14 port 46430
+Feb 17 22:47:08 log-collector sshd[2902]: Received disconnect from 223.196.87.14 port 46430:11: Bye Bye [preauth]
+Feb 17 22:47:08 log-collector sshd[2902]: Disconnected from invalid user marcia 223.196.87.14 port 46430 [preauth]
+Feb 17 22:47:10 log-collector sshd[2904]: Invalid user ubuntu from 132.145.36.211 port 41450
+Feb 17 22:47:10 log-collector sshd[2904]: Received disconnect from 132.145.36.211 port 41450:11: Bye Bye [preauth]
+Feb 17 22:47:10 log-collector sshd[2904]: Disconnected from invalid user ubuntu 132.145.36.211 port 41450 [preauth]
+Feb 17 22:47:15 log-collector sshd[2906]: Invalid user ubuntu from 51.254.37.192 port 44720
+Feb 17 22:47:15 log-collector sshd[2906]: Received disconnect from 51.254.37.192 port 44720:11: Bye Bye [preauth]
+Feb 17 22:47:15 log-collector sshd[2906]: Disconnected from invalid user ubuntu 51.254.37.192 port 44720 [preauth]
+Feb 17 22:47:35 log-collector sshd[2908]: Invalid user backups from 13.124.193.180 port 51940
+Feb 17 22:47:35 log-collector sshd[2908]: Received disconnect from 13.124.193.180 port 51940:11: Bye Bye [preauth]
+Feb 17 22:47:35 log-collector sshd[2908]: Disconnected from invalid user backups 13.124.193.180 port 51940 [preauth]
+Feb 17 22:48:13 log-collector sshd[2910]: Invalid user t from 180.151.3.103 port 60868
+Feb 17 22:48:13 log-collector sshd[2910]: Received disconnect from 180.151.3.103 port 60868:11: Bye Bye [preauth]
+Feb 17 22:48:13 log-collector sshd[2910]: Disconnected from invalid user t 180.151.3.103 port 60868 [preauth]
+Feb 17 22:51:23 log-collector sshd[2913]: Invalid user sumit from 5.39.77.117 port 38051
+Feb 17 22:51:23 log-collector sshd[2913]: Received disconnect from 5.39.77.117 port 38051:11: Bye Bye [preauth]
+Feb 17 22:51:23 log-collector sshd[2913]: Disconnected from invalid user sumit 5.39.77.117 port 38051 [preauth]
+Feb 17 22:51:45 log-collector sshd[2915]: Invalid user ssl_user from 114.118.7.48 port 49630
+Feb 17 22:51:45 log-collector sshd[2915]: Received disconnect from 114.118.7.48 port 49630:11: Bye Bye [preauth]
+Feb 17 22:51:45 log-collector sshd[2915]: Disconnected from invalid user ssl_user 114.118.7.48 port 49630 [preauth]
+Feb 17 22:52:11 log-collector sshd[2917]: Connection closed by 45.115.45.3 port 49600 [preauth]
+Feb 17 22:59:32 log-collector sshd[2920]: Connection closed by 45.115.45.3 port 50750 [preauth]
+Feb 17 22:59:44 log-collector sshd[2922]: Invalid user xxxx from 139.59.105.141 port 34688
+Feb 17 22:59:44 log-collector sshd[2922]: Received disconnect from 139.59.105.141 port 34688:11: Bye Bye [preauth]
+Feb 17 22:59:44 log-collector sshd[2922]: Disconnected from invalid user xxxx 139.59.105.141 port 34688 [preauth]
+Feb 17 23:00:41 log-collector sshd[2924]: Invalid user cp from 115.68.226.124 port 39872
+Feb 17 23:00:41 log-collector sshd[2924]: Received disconnect from 115.68.226.124 port 39872:11: Bye Bye [preauth]
+Feb 17 23:00:41 log-collector sshd[2924]: Disconnected from invalid user cp 115.68.226.124 port 39872 [preauth]
+Feb 17 23:00:54 log-collector sshd[2926]: Invalid user andrew from 192.169.245.144 port 44994
+Feb 17 23:00:54 log-collector sshd[2926]: Received disconnect from 192.169.245.144 port 44994:11: Bye Bye [preauth]
+Feb 17 23:00:54 log-collector sshd[2926]: Disconnected from invalid user andrew 192.169.245.144 port 44994 [preauth]
+Feb 17 23:01:05 log-collector sshd[2928]: Invalid user osmc from 89.38.149.65 port 41036
+Feb 17 23:01:05 log-collector sshd[2928]: Received disconnect from 89.38.149.65 port 41036:11: Bye Bye [preauth]
+Feb 17 23:01:05 log-collector sshd[2928]: Disconnected from invalid user osmc 89.38.149.65 port 41036 [preauth]
+Feb 17 23:02:11 log-collector sshd[2930]: Invalid user ts3 from 165.132.122.238 port 38844
+Feb 17 23:02:11 log-collector sshd[2930]: Received disconnect from 165.132.122.238 port 38844:11: Bye Bye [preauth]
+Feb 17 23:02:11 log-collector sshd[2930]: Disconnected from invalid user ts3 165.132.122.238 port 38844 [preauth]
+Feb 17 23:04:17 log-collector sshd[2932]: Invalid user tester from 104.128.68.247 port 35931
+Feb 17 23:04:17 log-collector sshd[2932]: Received disconnect from 104.128.68.247 port 35931:11: Bye Bye [preauth]
+Feb 17 23:04:17 log-collector sshd[2932]: Disconnected from invalid user tester 104.128.68.247 port 35931 [preauth]
+Feb 17 23:04:45 log-collector sshd[2935]: Invalid user service from 175.112.152.153 port 38673
+Feb 17 23:04:46 log-collector sshd[2935]: error: maximum authentication attempts exceeded for invalid user service from 175.112.152.153 port 38673 ssh2 [preauth]
+Feb 17 23:04:46 log-collector sshd[2935]: Disconnecting invalid user service 175.112.152.153 port 38673: Too many authentication failures [preauth]
+Feb 17 23:06:09 log-collector sshd[2937]: Invalid user hadoop1 from 159.203.179.230 port 33064
+Feb 17 23:06:09 log-collector sshd[2937]: Received disconnect from 159.203.179.230 port 33064:11: Bye Bye [preauth]
+Feb 17 23:06:09 log-collector sshd[2937]: Disconnected from invalid user hadoop1 159.203.179.230 port 33064 [preauth]
+Feb 17 23:06:24 log-collector sshd[2939]: Invalid user hadoop1 from 37.207.34.156 port 56310
+Feb 17 23:06:24 log-collector sshd[2939]: Received disconnect from 37.207.34.156 port 56310:11: Bye Bye [preauth]
+Feb 17 23:06:24 log-collector sshd[2939]: Disconnected from invalid user hadoop1 37.207.34.156 port 56310 [preauth]
+Feb 17 23:06:53 log-collector sshd[2941]: Invalid user hadoop1 from 176.31.252.148 port 55286
+Feb 17 23:06:53 log-collector sshd[2941]: Received disconnect from 176.31.252.148 port 55286:11: Bye Bye [preauth]
+Feb 17 23:06:53 log-collector sshd[2941]: Disconnected from invalid user hadoop1 176.31.252.148 port 55286 [preauth]
+Feb 17 23:06:53 log-collector sshd[2943]: Connection closed by 45.115.45.3 port 51892 [preauth]
+Feb 17 23:06:55 log-collector sshd[2945]: Invalid user sdnuser from 128.199.162.14 port 57795
+Feb 17 23:06:55 log-collector sshd[2945]: Received disconnect from 128.199.162.14 port 57795:11: Bye Bye [preauth]
+Feb 17 23:06:55 log-collector sshd[2945]: Disconnected from invalid user sdnuser 128.199.162.14 port 57795 [preauth]
+Feb 17 23:07:04 log-collector sshd[2947]: Invalid user analytics from 139.59.96.172 port 37135
+Feb 17 23:07:04 log-collector sshd[2947]: Received disconnect from 139.59.96.172 port 37135:11: Bye Bye [preauth]
+Feb 17 23:07:04 log-collector sshd[2947]: Disconnected from invalid user analytics 139.59.96.172 port 37135 [preauth]
+Feb 17 23:07:22 log-collector sshd[2949]: Invalid user ftpuser from 192.99.55.214 port 38265
+Feb 17 23:07:22 log-collector sshd[2949]: Received disconnect from 192.99.55.214 port 38265:11: Bye Bye [preauth]
+Feb 17 23:07:22 log-collector sshd[2949]: Disconnected from invalid user ftpuser 192.99.55.214 port 38265 [preauth]
+Feb 17 23:12:54 log-collector sshd[2952]: Invalid user wangtao from 54.37.67.193 port 55467
+Feb 17 23:12:54 log-collector sshd[2952]: Received disconnect from 54.37.67.193 port 55467:11: Bye Bye [preauth]
+Feb 17 23:12:54 log-collector sshd[2952]: Disconnected from invalid user wangtao 54.37.67.193 port 55467 [preauth]
+Feb 17 23:14:13 log-collector sshd[2954]: Connection closed by 45.115.45.3 port 53016 [preauth]
+Feb 17 23:14:48 log-collector sshd[2956]: Invalid user teste01 from 206.189.232.45 port 46972
+Feb 17 23:14:48 log-collector sshd[2956]: Received disconnect from 206.189.232.45 port 46972:11: Bye Bye [preauth]
+Feb 17 23:14:48 log-collector sshd[2956]: Disconnected from invalid user teste01 206.189.232.45 port 46972 [preauth]
+Feb 17 23:16:05 log-collector sshd[2958]: Invalid user temp from 67.9.91.98 port 48354
+Feb 17 23:16:05 log-collector sshd[2958]: Received disconnect from 67.9.91.98 port 48354:11: Bye Bye [preauth]
+Feb 17 23:16:05 log-collector sshd[2958]: Disconnected from invalid user temp 67.9.91.98 port 48354 [preauth]
+Feb 17 23:16:10 log-collector sshd[2960]: Invalid user owncloud from 206.189.3.162 port 39240
+Feb 17 23:16:10 log-collector sshd[2960]: Received disconnect from 206.189.3.162 port 39240:11: Bye Bye [preauth]
+Feb 17 23:16:10 log-collector sshd[2960]: Disconnected from invalid user owncloud 206.189.3.162 port 39240 [preauth]
+Feb 17 23:16:18 log-collector sshd[2962]: Invalid user teste from 104.236.38.105 port 41788
+Feb 17 23:16:18 log-collector sshd[2962]: Received disconnect from 104.236.38.105 port 41788:11: Bye Bye [preauth]
+Feb 17 23:16:18 log-collector sshd[2962]: Disconnected from invalid user teste 104.236.38.105 port 41788 [preauth]
+Feb 17 23:16:49 log-collector sshd[2964]: Received disconnect from 36.156.24.94 port 57512:11:  [preauth]
+Feb 17 23:16:49 log-collector sshd[2964]: Disconnected from authenticating user root 36.156.24.94 port 57512 [preauth]
+Feb 17 23:17:01 log-collector CRON[2966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 17 23:17:01 log-collector CRON[2966]: pam_unix(cron:session): session closed for user root
+Feb 17 23:21:32 log-collector sshd[2970]: Connection closed by 45.115.45.3 port 54164 [preauth]
+Feb 17 23:23:09 log-collector sshd[2972]: Invalid user ian from 95.58.194.142 port 46364
+Feb 17 23:23:09 log-collector sshd[2972]: Received disconnect from 95.58.194.142 port 46364:11: Bye Bye [preauth]
+Feb 17 23:23:09 log-collector sshd[2972]: Disconnected from invalid user ian 95.58.194.142 port 46364 [preauth]
+Feb 17 23:27:48 log-collector sshd[2975]: Received disconnect from 36.156.24.97 port 40413:11:  [preauth]
+Feb 17 23:27:48 log-collector sshd[2975]: Disconnected from authenticating user root 36.156.24.97 port 40413 [preauth]
+Feb 17 23:27:54 log-collector sshd[2977]: Received disconnect from 89.109.53.65 port 35014:11: Bye Bye [preauth]
+Feb 17 23:27:54 log-collector sshd[2977]: Disconnected from authenticating user www-data 89.109.53.65 port 35014 [preauth]
+Feb 17 23:28:52 log-collector sshd[2979]: Connection closed by 45.115.45.3 port 55304 [preauth]
+Feb 17 23:29:48 log-collector sshd[2981]: Received disconnect from 223.111.139.211 port 40678:11:  [preauth]
+Feb 17 23:29:48 log-collector sshd[2981]: Disconnected from authenticating user root 223.111.139.211 port 40678 [preauth]
+Feb 17 23:30:49 log-collector sshd[2983]: Invalid user wildfly from 115.110.225.130 port 21030
+Feb 17 23:30:50 log-collector sshd[2983]: Received disconnect from 115.110.225.130 port 21030:11: Bye Bye [preauth]
+Feb 17 23:30:50 log-collector sshd[2983]: Disconnected from invalid user wildfly 115.110.225.130 port 21030 [preauth]
+Feb 17 23:30:54 log-collector sshd[2985]: Invalid user postgres from 115.111.121.205 port 40952
+Feb 17 23:30:54 log-collector sshd[2985]: Received disconnect from 115.111.121.205 port 40952:11: Bye Bye [preauth]
+Feb 17 23:30:54 log-collector sshd[2985]: Disconnected from invalid user postgres 115.111.121.205 port 40952 [preauth]
+Feb 17 23:32:07 log-collector sshd[2988]: Received disconnect from 159.203.82.179 port 40032:11: Bye Bye [preauth]
+Feb 17 23:32:07 log-collector sshd[2988]: Disconnected from authenticating user root 159.203.82.179 port 40032 [preauth]
+Feb 17 23:33:06 log-collector sshd[2991]: Invalid user xerox from 220.128.119.251 port 57354
+Feb 17 23:33:06 log-collector sshd[2991]: Received disconnect from 220.128.119.251 port 57354:11: Bye Bye [preauth]
+Feb 17 23:33:06 log-collector sshd[2991]: Disconnected from invalid user xerox 220.128.119.251 port 57354 [preauth]
+Feb 17 23:33:09 log-collector sshd[2993]: Received disconnect from 109.252.231.164 port 52887:11: Bye Bye [preauth]
+Feb 17 23:33:09 log-collector sshd[2993]: Disconnected from authenticating user root 109.252.231.164 port 52887 [preauth]
+Feb 17 23:33:13 log-collector sshd[2995]: Invalid user wei from 123.207.153.155 port 33946
+Feb 17 23:33:14 log-collector sshd[2995]: Received disconnect from 123.207.153.155 port 33946:11: Bye Bye [preauth]
+Feb 17 23:33:14 log-collector sshd[2995]: Disconnected from invalid user wei 123.207.153.155 port 33946 [preauth]
+Feb 17 23:33:44 log-collector sshd[2997]: Invalid user 111 from 167.99.234.171 port 44284
+Feb 17 23:33:44 log-collector sshd[2997]: Received disconnect from 167.99.234.171 port 44284:11: Bye Bye [preauth]
+Feb 17 23:33:44 log-collector sshd[2997]: Disconnected from invalid user 111 167.99.234.171 port 44284 [preauth]
+Feb 17 23:33:45 log-collector sshd[2999]: Invalid user jq from 167.99.3.40 port 61308
+Feb 17 23:33:45 log-collector sshd[2999]: Received disconnect from 167.99.3.40 port 61308:11: Bye Bye [preauth]
+Feb 17 23:33:45 log-collector sshd[2999]: Disconnected from invalid user jq 167.99.3.40 port 61308 [preauth]
+Feb 17 23:34:26 log-collector sshd[3001]: Invalid user userftp from 159.203.141.208 port 37112
+Feb 17 23:34:26 log-collector sshd[3001]: Received disconnect from 159.203.141.208 port 37112:11: Bye Bye [preauth]
+Feb 17 23:34:26 log-collector sshd[3001]: Disconnected from invalid user userftp 159.203.141.208 port 37112 [preauth]
+Feb 17 23:34:50 log-collector sshd[3003]: Invalid user userftp from 212.64.11.188 port 50942
+Feb 17 23:34:50 log-collector sshd[3003]: Received disconnect from 212.64.11.188 port 50942:11: Bye Bye [preauth]
+Feb 17 23:34:50 log-collector sshd[3003]: Disconnected from invalid user userftp 212.64.11.188 port 50942 [preauth]
+Feb 17 23:36:03 log-collector sshd[3005]: Invalid user test from 51.255.91.75 port 54505
+Feb 17 23:36:03 log-collector sshd[3005]: Received disconnect from 51.255.91.75 port 54505:11: Bye Bye [preauth]
+Feb 17 23:36:03 log-collector sshd[3005]: Disconnected from invalid user test 51.255.91.75 port 54505 [preauth]
+Feb 17 23:36:10 log-collector sshd[3007]: Connection closed by 45.115.45.3 port 56460 [preauth]
+Feb 17 23:41:16 log-collector sshd[3010]: Invalid user kkkk from 51.75.207.61 port 35596
+Feb 17 23:41:16 log-collector sshd[3010]: Received disconnect from 51.75.207.61 port 35596:11: Bye Bye [preauth]
+Feb 17 23:41:16 log-collector sshd[3010]: Disconnected from invalid user kkkk 51.75.207.61 port 35596 [preauth]
+Feb 17 23:41:16 log-collector sshd[3012]: Invalid user kongxx from 35.196.23.232 port 37596
+Feb 17 23:41:16 log-collector sshd[3012]: Received disconnect from 35.196.23.232 port 37596:11: Bye Bye [preauth]
+Feb 17 23:41:16 log-collector sshd[3012]: Disconnected from invalid user kongxx 35.196.23.232 port 37596 [preauth]
+Feb 17 23:43:05 log-collector sshd[3014]: Invalid user kongxx from 180.76.107.40 port 54050
+Feb 17 23:43:05 log-collector sshd[3014]: Received disconnect from 180.76.107.40 port 54050:11: Bye Bye [preauth]
+Feb 17 23:43:05 log-collector sshd[3014]: Disconnected from invalid user kongxx 180.76.107.40 port 54050 [preauth]
+Feb 17 23:43:29 log-collector sshd[3016]: Connection closed by 45.115.45.3 port 57592 [preauth]
+Feb 17 23:44:04 log-collector sshd[3018]: Invalid user system from 223.171.37.178 port 38914
+Feb 17 23:44:05 log-collector sshd[3018]: Received disconnect from 223.171.37.178 port 38914:11: Bye Bye [preauth]
+Feb 17 23:44:05 log-collector sshd[3018]: Disconnected from invalid user system 223.171.37.178 port 38914 [preauth]
+Feb 17 23:44:46 log-collector sshd[3020]: Invalid user vnc from 122.152.219.135 port 36506
+Feb 17 23:44:46 log-collector sshd[3020]: Received disconnect from 122.152.219.135 port 36506:11: Bye Bye [preauth]
+Feb 17 23:44:46 log-collector sshd[3020]: Disconnected from invalid user vnc 122.152.219.135 port 36506 [preauth]
+Feb 17 23:45:57 log-collector sshd[3022]: Connection closed by 45.115.45.3 port 59696 [preauth]
+Feb 17 23:53:07 log-collector sshd[3025]: Connection closed by 45.115.45.3 port 60806 [preauth]
+Feb 17 23:56:23 log-collector sshd[3027]: Invalid user wifi from 104.248.117.234 port 35550
+Feb 17 23:56:23 log-collector sshd[3027]: Received disconnect from 104.248.117.234 port 35550:11: Bye Bye [preauth]
+Feb 17 23:56:23 log-collector sshd[3027]: Disconnected from invalid user wifi 104.248.117.234 port 35550 [preauth]
+Feb 17 23:56:29 log-collector sshd[3029]: Invalid user ts from 115.159.185.205 port 45242
+Feb 17 23:56:30 log-collector sshd[3029]: Received disconnect from 115.159.185.205 port 45242:11: Bye Bye [preauth]
+Feb 17 23:56:30 log-collector sshd[3029]: Disconnected from invalid user ts 115.159.185.205 port 45242 [preauth]
+Feb 18 00:00:15 log-collector sshd[3032]: Did not receive identification string from 178.73.215.171 port 57517
+Feb 18 00:00:16 log-collector sshd[3044]: Connection closed by 45.115.45.3 port 33702 [preauth]
+Feb 18 00:03:57 log-collector sshd[3046]: Received disconnect from 122.226.181.166 port 49518:11:  [preauth]
+Feb 18 00:03:57 log-collector sshd[3046]: Disconnected from authenticating user root 122.226.181.166 port 49518 [preauth]
+Feb 18 00:04:31 log-collector sshd[3048]: Invalid user anna from 139.59.249.255 port 33452
+Feb 18 00:04:31 log-collector sshd[3048]: Received disconnect from 139.59.249.255 port 33452:11: Bye Bye [preauth]
+Feb 18 00:04:31 log-collector sshd[3048]: Disconnected from invalid user anna 139.59.249.255 port 33452 [preauth]
+Feb 18 00:04:32 log-collector sshd[3050]: Received disconnect from 121.134.159.21 port 51394:11: Bye Bye [preauth]
+Feb 18 00:04:32 log-collector sshd[3050]: Disconnected from authenticating user root 121.134.159.21 port 51394 [preauth]
+Feb 18 00:04:37 log-collector sshd[3052]: Invalid user anna from 140.143.93.31 port 49826
+Feb 18 00:04:38 log-collector sshd[3052]: Received disconnect from 140.143.93.31 port 49826:11: Bye Bye [preauth]
+Feb 18 00:04:38 log-collector sshd[3052]: Disconnected from invalid user anna 140.143.93.31 port 49826 [preauth]
+Feb 18 00:05:18 log-collector sshd[3055]: Invalid user dev from 121.171.147.246 port 59440
+Feb 18 00:05:18 log-collector sshd[3055]: Received disconnect from 121.171.147.246 port 59440:11: Bye Bye [preauth]
+Feb 18 00:05:18 log-collector sshd[3055]: Disconnected from invalid user dev 121.171.147.246 port 59440 [preauth]
+Feb 18 00:06:10 log-collector sshd[3057]: Invalid user anna from 14.215.45.163 port 14686
+Feb 18 00:06:10 log-collector sshd[3057]: Received disconnect from 14.215.45.163 port 14686:11: Bye Bye [preauth]
+Feb 18 00:06:10 log-collector sshd[3057]: Disconnected from invalid user anna 14.215.45.163 port 14686 [preauth]
+Feb 18 00:07:31 log-collector sshd[3059]: Connection closed by 45.115.45.3 port 34830 [preauth]
+Feb 18 00:07:36 log-collector sshd[3061]: Received disconnect from 36.156.24.96 port 47334:11:  [preauth]
+Feb 18 00:07:36 log-collector sshd[3061]: Disconnected from authenticating user root 36.156.24.96 port 47334 [preauth]
+Feb 18 00:07:40 log-collector sshd[3063]: Received disconnect from 122.226.181.167 port 42524:11:  [preauth]
+Feb 18 00:07:40 log-collector sshd[3063]: Disconnected from authenticating user root 122.226.181.167 port 42524 [preauth]
+Feb 18 00:10:01 log-collector sshd[3065]: Received disconnect from 61.184.247.11 port 42614:11:  [preauth]
+Feb 18 00:10:01 log-collector sshd[3065]: Disconnected from authenticating user root 61.184.247.11 port 42614 [preauth]
+Feb 18 00:10:20 log-collector sshd[3068]: Received disconnect from 125.65.42.192 port 44986:11:  [preauth]
+Feb 18 00:10:20 log-collector sshd[3068]: Disconnected from authenticating user root 125.65.42.192 port 44986 [preauth]
+Feb 18 00:10:32 log-collector sshd[3071]: Invalid user nagios from 65.29.181.222 port 59232
+Feb 18 00:10:32 log-collector sshd[3071]: Received disconnect from 65.29.181.222 port 59232:11: Bye Bye [preauth]
+Feb 18 00:10:32 log-collector sshd[3071]: Disconnected from invalid user nagios 65.29.181.222 port 59232 [preauth]
+Feb 18 00:10:42 log-collector sshd[3073]: Invalid user redis from 176.58.150.221 port 60382
+Feb 18 00:10:42 log-collector sshd[3074]: Invalid user sandeep from 142.93.214.20 port 34094
+Feb 18 00:10:42 log-collector sshd[3073]: Received disconnect from 176.58.150.221 port 60382:11: Bye Bye [preauth]
+Feb 18 00:10:42 log-collector sshd[3073]: Disconnected from invalid user redis 176.58.150.221 port 60382 [preauth]
+Feb 18 00:10:43 log-collector sshd[3074]: Received disconnect from 142.93.214.20 port 34094:11: Bye Bye [preauth]
+Feb 18 00:10:43 log-collector sshd[3074]: Disconnected from invalid user sandeep 142.93.214.20 port 34094 [preauth]
+Feb 18 00:14:27 log-collector sshd[3077]: Invalid user admin from 5.101.40.81 port 36332
+Feb 18 00:14:30 log-collector sshd[3077]: Disconnecting invalid user admin 5.101.40.81 port 36332: Change of username or service not allowed: (admin,ssh-connection) -> (user,ssh-connection) [preauth]
+Feb 18 00:14:44 log-collector sshd[3079]: Connection closed by 45.115.45.3 port 35952 [preauth]
+Feb 18 00:17:01 log-collector CRON[3082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 18 00:17:01 log-collector CRON[3082]: pam_unix(cron:session): session closed for user root
+Feb 18 00:17:42 log-collector sshd[3085]: Invalid user ftpuser from 178.254.55.192 port 36744
+Feb 18 00:17:42 log-collector sshd[3085]: Received disconnect from 178.254.55.192 port 36744:11: Bye Bye [preauth]
+Feb 18 00:17:42 log-collector sshd[3085]: Disconnected from invalid user ftpuser 178.254.55.192 port 36744 [preauth]
+Feb 18 00:17:49 log-collector sshd[3087]: Invalid user ec2-test from 205.147.97.158 port 39387
+Feb 18 00:17:49 log-collector sshd[3087]: Received disconnect from 205.147.97.158 port 39387:11: Bye Bye [preauth]
+Feb 18 00:17:49 log-collector sshd[3087]: Disconnected from invalid user ec2-test 205.147.97.158 port 39387 [preauth]
+Feb 18 00:17:55 log-collector sshd[3089]: Invalid user julio from 58.250.161.97 port 62862
+Feb 18 00:17:55 log-collector sshd[3089]: Received disconnect from 58.250.161.97 port 62862:11: Bye Bye [preauth]
+Feb 18 00:17:55 log-collector sshd[3089]: Disconnected from invalid user julio 58.250.161.97 port 62862 [preauth]
+Feb 18 00:18:07 log-collector sshd[3093]: Invalid user wangchen from 68.183.106.145 port 56396
+Feb 18 00:18:07 log-collector sshd[3093]: Received disconnect from 68.183.106.145 port 56396:11: Bye Bye [preauth]
+Feb 18 00:18:07 log-collector sshd[3093]: Disconnected from invalid user wangchen 68.183.106.145 port 56396 [preauth]
+Feb 18 00:18:07 log-collector sshd[3091]: Invalid user hadoop from 80.255.81.61 port 57448
+Feb 18 00:18:07 log-collector sshd[3091]: Received disconnect from 80.255.81.61 port 57448:11: Bye Bye [preauth]
+Feb 18 00:18:07 log-collector sshd[3091]: Disconnected from invalid user hadoop 80.255.81.61 port 57448 [preauth]
+Feb 18 00:18:13 log-collector sshd[3095]: Received disconnect from 122.114.255.44 port 51532:11: Bye Bye [preauth]
+Feb 18 00:18:13 log-collector sshd[3095]: Disconnected from authenticating user mail 122.114.255.44 port 51532 [preauth]
+Feb 18 00:20:22 log-collector sshd[3097]: Received disconnect from 185.169.255.45 port 33490:11: Bye Bye [preauth]
+Feb 18 00:20:22 log-collector sshd[3097]: Disconnected from authenticating user backup 185.169.255.45 port 33490 [preauth]
+Feb 18 00:22:00 log-collector sshd[3099]: Connection closed by 45.115.45.3 port 37082 [preauth]
+Feb 18 00:26:28 log-collector sshd[3102]: Invalid user deployer from 185.188.218.6 port 56422
+Feb 18 00:26:28 log-collector sshd[3102]: Received disconnect from 185.188.218.6 port 56422:11: Bye Bye [preauth]
+Feb 18 00:26:28 log-collector sshd[3102]: Disconnected from invalid user deployer 185.188.218.6 port 56422 [preauth]
+Feb 18 00:27:31 log-collector sshd[3104]: Invalid user dinesh from 201.16.247.149 port 56244
+Feb 18 00:27:32 log-collector sshd[3104]: Received disconnect from 201.16.247.149 port 56244:11: Bye Bye [preauth]
+Feb 18 00:27:32 log-collector sshd[3104]: Disconnected from invalid user dinesh 201.16.247.149 port 56244 [preauth]
+Feb 18 00:29:17 log-collector sshd[3106]: Connection closed by 45.115.45.3 port 38224 [preauth]
+Feb 18 00:29:35 log-collector sshd[3108]: Invalid user program from 144.217.83.109 port 42359
+Feb 18 00:29:35 log-collector sshd[3108]: Received disconnect from 144.217.83.109 port 42359:11: Bye Bye [preauth]
+Feb 18 00:29:35 log-collector sshd[3108]: Disconnected from invalid user program 144.217.83.109 port 42359 [preauth]
+Feb 18 00:29:54 log-collector sshd[3110]: Invalid user pi from 203.173.94.65 port 60336
+Feb 18 00:29:55 log-collector sshd[3110]: Received disconnect from 203.173.94.65 port 60336:11: Bye Bye [preauth]
+Feb 18 00:29:55 log-collector sshd[3110]: Disconnected from invalid user pi 203.173.94.65 port 60336 [preauth]
+Feb 18 00:30:15 log-collector sshd[3112]: Invalid user admin from 91.134.140.32 port 55414
+Feb 18 00:30:15 log-collector sshd[3112]: Received disconnect from 91.134.140.32 port 55414:11: Bye Bye [preauth]
+Feb 18 00:30:15 log-collector sshd[3112]: Disconnected from invalid user admin 91.134.140.32 port 55414 [preauth]
+Feb 18 00:30:37 log-collector sshd[3114]: Invalid user admin from 193.193.230.84 port 47909
+Feb 18 00:30:37 log-collector sshd[3114]: Received disconnect from 193.193.230.84 port 47909:11: Bye Bye [preauth]
+Feb 18 00:30:37 log-collector sshd[3114]: Disconnected from invalid user admin 193.193.230.84 port 47909 [preauth]
+Feb 18 00:32:26 log-collector sshd[3117]: Invalid user deployer from 104.236.142.200 port 59164
+Feb 18 00:32:26 log-collector sshd[3117]: Received disconnect from 104.236.142.200 port 59164:11: Bye Bye [preauth]
+Feb 18 00:32:26 log-collector sshd[3117]: Disconnected from invalid user deployer 104.236.142.200 port 59164 [preauth]
+Feb 18 00:33:29 log-collector sshd[3119]: Invalid user gmodserver from 177.135.93.227 port 50830
+Feb 18 00:33:30 log-collector sshd[3119]: Received disconnect from 177.135.93.227 port 50830:11: Bye Bye [preauth]
+Feb 18 00:33:30 log-collector sshd[3119]: Disconnected from invalid user gmodserver 177.135.93.227 port 50830 [preauth]
+Feb 18 00:33:32 log-collector sshd[3121]: Invalid user sftp from 177.107.128.222 port 37116
+Feb 18 00:33:32 log-collector sshd[3121]: Received disconnect from 177.107.128.222 port 37116:11: Bye Bye [preauth]
+Feb 18 00:33:32 log-collector sshd[3121]: Disconnected from invalid user sftp 177.107.128.222 port 37116 [preauth]
+Feb 18 00:33:53 log-collector sshd[3123]: Invalid user anuel from 118.98.96.184 port 32886
+Feb 18 00:33:53 log-collector sshd[3123]: Received disconnect from 118.98.96.184 port 32886:11: Bye Bye [preauth]
+Feb 18 00:33:53 log-collector sshd[3123]: Disconnected from invalid user anuel 118.98.96.184 port 32886 [preauth]
+Feb 18 00:34:01 log-collector sshd[3125]: Invalid user sftp from 128.199.196.155 port 48369
+Feb 18 00:34:02 log-collector sshd[3125]: Received disconnect from 128.199.196.155 port 48369:11: Bye Bye [preauth]
+Feb 18 00:34:02 log-collector sshd[3125]: Disconnected from invalid user sftp 128.199.196.155 port 48369 [preauth]
+Feb 18 00:34:10 log-collector sshd[3127]: Invalid user demo from 93.157.241.40 port 54561
+Feb 18 00:34:11 log-collector sshd[3127]: Received disconnect from 93.157.241.40 port 54561:11: Bye Bye [preauth]
+Feb 18 00:34:11 log-collector sshd[3127]: Disconnected from invalid user demo 93.157.241.40 port 54561 [preauth]
+Feb 18 00:34:26 log-collector sshd[3129]: Invalid user xml from 159.203.82.179 port 58147
+Feb 18 00:34:26 log-collector sshd[3129]: Received disconnect from 159.203.82.179 port 58147:11: Bye Bye [preauth]
+Feb 18 00:34:26 log-collector sshd[3129]: Disconnected from invalid user xml 159.203.82.179 port 58147 [preauth]
+Feb 18 00:34:40 log-collector sshd[3131]: Invalid user jenkins from 222.110.249.244 port 37668
+Feb 18 00:34:40 log-collector sshd[3131]: Received disconnect from 222.110.249.244 port 37668:11: Bye Bye [preauth]
+Feb 18 00:34:40 log-collector sshd[3131]: Disconnected from invalid user jenkins 222.110.249.244 port 37668 [preauth]
+Feb 18 00:34:44 log-collector sshd[3133]: Invalid user naresh from 14.63.231.187 port 54690
+Feb 18 00:34:45 log-collector sshd[3133]: Received disconnect from 14.63.231.187 port 54690:11: Bye Bye [preauth]
+Feb 18 00:34:45 log-collector sshd[3133]: Disconnected from invalid user naresh 14.63.231.187 port 54690 [preauth]
+Feb 18 00:35:26 log-collector sshd[3135]: Invalid user jenkins from 222.233.53.132 port 52318
+Feb 18 00:35:26 log-collector sshd[3135]: Received disconnect from 222.233.53.132 port 52318:11: Bye Bye [preauth]
+Feb 18 00:35:26 log-collector sshd[3135]: Disconnected from invalid user jenkins 222.233.53.132 port 52318 [preauth]
+Feb 18 00:35:30 log-collector sshd[3137]: Invalid user teamspeak from 144.255.155.118 port 38721
+Feb 18 00:35:30 log-collector sshd[3137]: Received disconnect from 144.255.155.118 port 38721:11: Bye Bye [preauth]
+Feb 18 00:35:30 log-collector sshd[3137]: Disconnected from invalid user teamspeak 144.255.155.118 port 38721 [preauth]
+Feb 18 00:35:32 log-collector sshd[3139]: Invalid user haladit from 123.207.124.214 port 59312
+Feb 18 00:35:33 log-collector sshd[3139]: Received disconnect from 123.207.124.214 port 59312:11: Bye Bye [preauth]
+Feb 18 00:35:33 log-collector sshd[3139]: Disconnected from invalid user haladit 123.207.124.214 port 59312 [preauth]
+Feb 18 00:35:33 log-collector sshd[3141]: Invalid user tlserver from 42.200.198.53 port 50472
+Feb 18 00:35:34 log-collector sshd[3141]: Received disconnect from 42.200.198.53 port 50472:11: Bye Bye [preauth]
+Feb 18 00:35:34 log-collector sshd[3141]: Disconnected from invalid user tlserver 42.200.198.53 port 50472 [preauth]
+Feb 18 00:35:38 log-collector sshd[3143]: Invalid user deploy from 58.96.135.182 port 58428
+Feb 18 00:35:38 log-collector sshd[3143]: Received disconnect from 58.96.135.182 port 58428:11: Bye Bye [preauth]
+Feb 18 00:35:38 log-collector sshd[3143]: Disconnected from invalid user deploy 58.96.135.182 port 58428 [preauth]
+Feb 18 00:35:43 log-collector sshd[3145]: Invalid user backups from 178.128.125.131 port 44348
+Feb 18 00:35:43 log-collector sshd[3145]: Received disconnect from 178.128.125.131 port 44348:11: Bye Bye [preauth]
+Feb 18 00:35:43 log-collector sshd[3145]: Disconnected from invalid user backups 178.128.125.131 port 44348 [preauth]
+Feb 18 00:35:46 log-collector sshd[3147]: Invalid user tlserver from 148.70.4.242 port 34692
+Feb 18 00:35:46 log-collector sshd[3147]: Received disconnect from 148.70.4.242 port 34692:11: Bye Bye [preauth]
+Feb 18 00:35:46 log-collector sshd[3147]: Disconnected from invalid user tlserver 148.70.4.242 port 34692 [preauth]
+Feb 18 00:36:20 log-collector sshd[3149]: Invalid user teamspeak from 106.13.70.29 port 46750
+Feb 18 00:36:20 log-collector sshd[3149]: Received disconnect from 106.13.70.29 port 46750:11: Bye Bye [preauth]
+Feb 18 00:36:20 log-collector sshd[3149]: Disconnected from invalid user teamspeak 106.13.70.29 port 46750 [preauth]
+Feb 18 00:36:30 log-collector sshd[3151]: Connection closed by 45.115.45.3 port 39368 [preauth]
+Feb 18 00:41:55 log-collector sshd[3154]: Invalid user suelette from 14.34.148.34 port 35026
+Feb 18 00:41:55 log-collector sshd[3154]: Received disconnect from 14.34.148.34 port 35026:11: Bye Bye [preauth]
+Feb 18 00:41:55 log-collector sshd[3154]: Disconnected from invalid user suelette 14.34.148.34 port 35026 [preauth]
+Feb 18 00:41:58 log-collector sshd[3156]: Invalid user prueba from 14.18.100.90 port 60440
+Feb 18 00:41:58 log-collector sshd[3156]: Received disconnect from 14.18.100.90 port 60440:11: Bye Bye [preauth]
+Feb 18 00:41:58 log-collector sshd[3156]: Disconnected from invalid user prueba 14.18.100.90 port 60440 [preauth]
+Feb 18 00:42:01 log-collector sshd[3158]: Invalid user mc from 95.85.12.206 port 43066
+Feb 18 00:42:01 log-collector sshd[3158]: Received disconnect from 95.85.12.206 port 43066:11: Bye Bye [preauth]
+Feb 18 00:42:01 log-collector sshd[3158]: Disconnected from invalid user mc 95.85.12.206 port 43066 [preauth]
+Feb 18 00:43:45 log-collector sshd[3160]: Connection closed by 45.115.45.3 port 40534 [preauth]
+Feb 18 00:43:55 log-collector sshd[3162]: Invalid user jenkins from 211.35.76.241 port 58915
+Feb 18 00:43:55 log-collector sshd[3162]: Received disconnect from 211.35.76.241 port 58915:11: Bye Bye [preauth]
+Feb 18 00:43:55 log-collector sshd[3162]: Disconnected from invalid user jenkins 211.35.76.241 port 58915 [preauth]
+Feb 18 00:46:26 log-collector sshd[3164]: Invalid user server from 206.189.100.77 port 46350
+Feb 18 00:46:26 log-collector sshd[3164]: Received disconnect from 206.189.100.77 port 46350:11: Bye Bye [preauth]
+Feb 18 00:46:26 log-collector sshd[3164]: Disconnected from invalid user server 206.189.100.77 port 46350 [preauth]
+Feb 18 00:46:40 log-collector sshd[3166]: Invalid user elasticsearch from 157.147.93.111 port 47666
+Feb 18 00:46:40 log-collector sshd[3166]: Received disconnect from 157.147.93.111 port 47666:11: Bye Bye [preauth]
+Feb 18 00:46:40 log-collector sshd[3166]: Disconnected from invalid user elasticsearch 157.147.93.111 port 47666 [preauth]
+Feb 18 00:46:48 log-collector sshd[3168]: Invalid user pi from 111.230.64.83 port 23074
+Feb 18 00:46:48 log-collector sshd[3168]: Received disconnect from 111.230.64.83 port 23074:11: Bye Bye [preauth]
+Feb 18 00:46:48 log-collector sshd[3168]: Disconnected from invalid user pi 111.230.64.83 port 23074 [preauth]
+Feb 18 00:47:01 log-collector sshd[3171]: Invalid user developer from 162.243.165.39 port 50162
+Feb 18 00:47:01 log-collector sshd[3171]: Received disconnect from 162.243.165.39 port 50162:11: Bye Bye [preauth]
+Feb 18 00:47:01 log-collector sshd[3171]: Disconnected from invalid user developer 162.243.165.39 port 50162 [preauth]
+Feb 18 00:47:06 log-collector sshd[3173]: Invalid user developer from 194.115.212.82 port 50030
+Feb 18 00:47:07 log-collector sshd[3173]: Received disconnect from 194.115.212.82 port 50030:11: Bye Bye [preauth]
+Feb 18 00:47:07 log-collector sshd[3173]: Disconnected from invalid user developer 194.115.212.82 port 50030 [preauth]
+Feb 18 00:47:35 log-collector sshd[3175]: Invalid user usuario from 14.215.48.109 port 58236
+Feb 18 00:47:35 log-collector sshd[3175]: Received disconnect from 14.215.48.109 port 58236:11: Bye Bye [preauth]
+Feb 18 00:47:35 log-collector sshd[3175]: Disconnected from invalid user usuario 14.215.48.109 port 58236 [preauth]
+Feb 18 00:49:28 log-collector sshd[3177]: Invalid user nagios from 104.42.179.68 port 48388
+Feb 18 00:49:28 log-collector sshd[3177]: Received disconnect from 104.42.179.68 port 48388:11: Bye Bye [preauth]
+Feb 18 00:49:28 log-collector sshd[3177]: Disconnected from invalid user nagios 104.42.179.68 port 48388 [preauth]
+Feb 18 00:50:57 log-collector sshd[3179]: Connection closed by 45.115.45.3 port 41666 [preauth]
+Feb 18 00:51:19 log-collector sshd[3183]: Invalid user rocket from 206.189.181.86 port 45974
+Feb 18 00:51:19 log-collector sshd[3183]: Received disconnect from 206.189.181.86 port 45974:11: Bye Bye [preauth]
+Feb 18 00:51:19 log-collector sshd[3183]: Disconnected from invalid user rocket 206.189.181.86 port 45974 [preauth]
+Feb 18 00:51:46 log-collector sshd[3185]: Invalid user applmgr from 167.99.54.4 port 34720
+Feb 18 00:51:46 log-collector sshd[3185]: Received disconnect from 167.99.54.4 port 34720:11: Bye Bye [preauth]
+Feb 18 00:51:46 log-collector sshd[3185]: Disconnected from invalid user applmgr 167.99.54.4 port 34720 [preauth]
+Feb 18 00:52:08 log-collector sshd[3188]: Received disconnect from 36.156.24.94 port 36160:11:  [preauth]
+Feb 18 00:52:08 log-collector sshd[3188]: Disconnected from authenticating user root 36.156.24.94 port 36160 [preauth]
+Feb 18 00:52:43 log-collector sshd[3190]: Invalid user camera from 104.248.152.79 port 50015
+Feb 18 00:52:43 log-collector sshd[3190]: Received disconnect from 104.248.152.79 port 50015:11: Bye Bye [preauth]
+Feb 18 00:52:43 log-collector sshd[3190]: Disconnected from invalid user camera 104.248.152.79 port 50015 [preauth]
+Feb 18 00:54:15 log-collector sshd[3192]: Invalid user administrador from 151.106.25.246 port 56924
+Feb 18 00:54:16 log-collector sshd[3192]: Received disconnect from 151.106.25.246 port 56924:11: Bye Bye [preauth]
+Feb 18 00:54:16 log-collector sshd[3192]: Disconnected from invalid user administrador 151.106.25.246 port 56924 [preauth]
+Feb 18 00:54:45 log-collector sshd[3194]: Invalid user administrador from 106.12.214.190 port 39130
+Feb 18 00:54:45 log-collector sshd[3194]: Received disconnect from 106.12.214.190 port 39130:11: Bye Bye [preauth]
+Feb 18 00:54:45 log-collector sshd[3194]: Disconnected from invalid user administrador 106.12.214.190 port 39130 [preauth]
+Feb 18 00:54:47 log-collector sshd[3196]: Invalid user testing from 138.68.87.0 port 41666
+Feb 18 00:54:47 log-collector sshd[3196]: Received disconnect from 138.68.87.0 port 41666:11: Bye Bye [preauth]
+Feb 18 00:54:47 log-collector sshd[3196]: Disconnected from invalid user testing 138.68.87.0 port 41666 [preauth]
+Feb 18 00:56:25 log-collector sshd[3199]: Invalid user administrador from 139.199.113.140 port 38308
+Feb 18 00:56:25 log-collector sshd[3199]: Received disconnect from 139.199.113.140 port 38308:11: Bye Bye [preauth]
+Feb 18 00:56:25 log-collector sshd[3199]: Disconnected from invalid user administrador 139.199.113.140 port 38308 [preauth]
+Feb 18 00:58:12 log-collector sshd[3202]: Connection closed by 45.115.45.3 port 42822 [preauth]
+Feb 18 00:59:02 log-collector sshd[3204]: Invalid user testing from 125.75.47.99 port 48746
+Feb 18 00:59:03 log-collector sshd[3204]: Received disconnect from 125.75.47.99 port 48746:11: Bye Bye [preauth]
+Feb 18 00:59:03 log-collector sshd[3204]: Disconnected from invalid user testing 125.75.47.99 port 48746 [preauth]
+Feb 18 01:01:03 log-collector sshd[3206]: Invalid user informix from 198.211.97.234 port 36124
+Feb 18 01:01:03 log-collector sshd[3206]: Received disconnect from 198.211.97.234 port 36124:11: Bye Bye [preauth]
+Feb 18 01:01:03 log-collector sshd[3206]: Disconnected from invalid user informix 198.211.97.234 port 36124 [preauth]
+Feb 18 01:01:09 log-collector sshd[3208]: Invalid user doom from 165.227.17.252 port 12600
+Feb 18 01:01:09 log-collector sshd[3208]: Received disconnect from 165.227.17.252 port 12600:11: Bye Bye [preauth]
+Feb 18 01:01:09 log-collector sshd[3208]: Disconnected from invalid user doom 165.227.17.252 port 12600 [preauth]
+Feb 18 01:01:31 log-collector sshd[3210]: Invalid user informix from 182.71.127.226 port 60255
+Feb 18 01:01:31 log-collector sshd[3210]: Received disconnect from 182.71.127.226 port 60255:11: Bye Bye [preauth]
+Feb 18 01:01:31 log-collector sshd[3210]: Disconnected from invalid user informix 182.71.127.226 port 60255 [preauth]
+Feb 18 01:01:34 log-collector sshd[3212]: Invalid user alan from 14.7.117.22 port 38740
+Feb 18 01:01:34 log-collector sshd[3212]: Received disconnect from 14.7.117.22 port 38740:11: Bye Bye [preauth]
+Feb 18 01:01:34 log-collector sshd[3212]: Disconnected from invalid user alan 14.7.117.22 port 38740 [preauth]
+Feb 18 01:04:12 log-collector sshd[3215]: Received disconnect from 218.28.137.66 port 6759:11: Bye Bye [preauth]
+Feb 18 01:04:12 log-collector sshd[3215]: Disconnected from 218.28.137.66 port 6759 [preauth]
+Feb 18 01:05:09 log-collector sshd[3217]: Invalid user andre from 59.125.247.227 port 36102
+Feb 18 01:05:09 log-collector sshd[3217]: Received disconnect from 59.125.247.227 port 36102:11: Bye Bye [preauth]
+Feb 18 01:05:09 log-collector sshd[3217]: Disconnected from invalid user andre 59.125.247.227 port 36102 [preauth]
+Feb 18 01:05:29 log-collector sshd[3221]: Connection closed by 45.115.45.3 port 43950 [preauth]
+Feb 18 01:05:32 log-collector sshd[3219]: Received disconnect from 223.111.139.211 port 54436:11:  [preauth]
+Feb 18 01:05:32 log-collector sshd[3219]: Disconnected from authenticating user root 223.111.139.211 port 54436 [preauth]
+Feb 18 01:05:53 log-collector sshd[3223]: Invalid user postgres from 209.97.170.244 port 42938
+Feb 18 01:05:53 log-collector sshd[3223]: Received disconnect from 209.97.170.244 port 42938:11: Bye Bye [preauth]
+Feb 18 01:05:53 log-collector sshd[3223]: Disconnected from invalid user postgres 209.97.170.244 port 42938 [preauth]
+Feb 18 01:05:54 log-collector sshd[3225]: Invalid user henry from 202.65.154.100 port 38070
+Feb 18 01:05:54 log-collector sshd[3225]: Received disconnect from 202.65.154.100 port 38070:11: Bye Bye [preauth]
+Feb 18 01:05:54 log-collector sshd[3225]: Disconnected from invalid user henry 202.65.154.100 port 38070 [preauth]
+Feb 18 01:06:01 log-collector sshd[3227]: Invalid user baust from 119.29.245.158 port 40010
+Feb 18 01:06:01 log-collector sshd[3227]: Received disconnect from 119.29.245.158 port 40010:11: Bye Bye [preauth]
+Feb 18 01:06:01 log-collector sshd[3227]: Disconnected from invalid user baust 119.29.245.158 port 40010 [preauth]
+Feb 18 01:06:07 log-collector sshd[3229]: Invalid user ftpuser from 112.25.132.110 port 37922
+Feb 18 01:06:07 log-collector sshd[3229]: Received disconnect from 112.25.132.110 port 37922:11: Bye Bye [preauth]
+Feb 18 01:06:07 log-collector sshd[3229]: Disconnected from invalid user ftpuser 112.25.132.110 port 37922 [preauth]
+Feb 18 01:07:26 log-collector sshd[3231]: Invalid user test1 from 218.5.112.6 port 58408
+Feb 18 01:07:26 log-collector sshd[3231]: Received disconnect from 218.5.112.6 port 58408:11: Bye Bye [preauth]
+Feb 18 01:07:26 log-collector sshd[3231]: Disconnected from invalid user test1 218.5.112.6 port 58408 [preauth]
+Feb 18 01:07:33 log-collector sshd[3233]: Invalid user usuario from 159.65.34.82 port 37864
+Feb 18 01:07:33 log-collector sshd[3233]: Received disconnect from 159.65.34.82 port 37864:11: Bye Bye [preauth]
+Feb 18 01:07:33 log-collector sshd[3233]: Disconnected from invalid user usuario 159.65.34.82 port 37864 [preauth]
+Feb 18 01:07:51 log-collector sshd[3235]: Invalid user newadmin from 183.111.188.93 port 45960
+Feb 18 01:07:51 log-collector sshd[3235]: Received disconnect from 183.111.188.93 port 45960:11: Bye Bye [preauth]
+Feb 18 01:07:51 log-collector sshd[3235]: Disconnected from invalid user newadmin 183.111.188.93 port 45960 [preauth]
+Feb 18 01:08:08 log-collector sshd[3237]: Invalid user usuario from 79.92.116.163 port 38200
+Feb 18 01:08:08 log-collector sshd[3237]: Received disconnect from 79.92.116.163 port 38200:11: Bye Bye [preauth]
+Feb 18 01:08:08 log-collector sshd[3237]: Disconnected from invalid user usuario 79.92.116.163 port 38200 [preauth]
+Feb 18 01:08:14 log-collector sshd[3239]: Invalid user usuario from 94.23.254.125 port 59863
+Feb 18 01:08:14 log-collector sshd[3239]: Received disconnect from 94.23.254.125 port 59863:11: Bye Bye [preauth]
+Feb 18 01:08:14 log-collector sshd[3239]: Disconnected from invalid user usuario 94.23.254.125 port 59863 [preauth]
+Feb 18 01:08:19 log-collector sshd[3241]: Invalid user testftp from 82.1.137.1 port 46954
+Feb 18 01:08:19 log-collector sshd[3241]: Received disconnect from 82.1.137.1 port 46954:11: Bye Bye [preauth]
+Feb 18 01:08:19 log-collector sshd[3241]: Disconnected from invalid user testftp 82.1.137.1 port 46954 [preauth]
+Feb 18 01:08:31 log-collector sshd[3243]: Invalid user newadmin from 148.101.216.15 port 44581
+Feb 18 01:08:31 log-collector sshd[3243]: Received disconnect from 148.101.216.15 port 44581:11: Bye Bye [preauth]
+Feb 18 01:08:31 log-collector sshd[3243]: Disconnected from invalid user newadmin 148.101.216.15 port 44581 [preauth]
+Feb 18 01:08:36 log-collector sshd[3245]: Invalid user newadmin from 113.196.140.200 port 38304
+Feb 18 01:08:36 log-collector sshd[3245]: Received disconnect from 113.196.140.200 port 38304:11: Bye Bye [preauth]
+Feb 18 01:08:36 log-collector sshd[3245]: Disconnected from invalid user newadmin 113.196.140.200 port 38304 [preauth]
+Feb 18 01:08:38 log-collector sshd[3247]: Invalid user testftp from 131.100.219.3 port 45194
+Feb 18 01:08:38 log-collector sshd[3247]: Received disconnect from 131.100.219.3 port 45194:11: Bye Bye [preauth]
+Feb 18 01:08:38 log-collector sshd[3247]: Disconnected from invalid user testftp 131.100.219.3 port 45194 [preauth]
+Feb 18 01:08:40 log-collector sshd[3249]: Invalid user newadmin from 192.144.156.187 port 57534
+Feb 18 01:08:41 log-collector sshd[3249]: Received disconnect from 192.144.156.187 port 57534:11: Bye Bye [preauth]
+Feb 18 01:08:41 log-collector sshd[3249]: Disconnected from invalid user newadmin 192.144.156.187 port 57534 [preauth]
+Feb 18 01:08:41 log-collector sshd[3251]: Invalid user evan from 193.112.34.247 port 59948
+Feb 18 01:08:41 log-collector sshd[3251]: Received disconnect from 193.112.34.247 port 59948:11: Bye Bye [preauth]
+Feb 18 01:08:41 log-collector sshd[3251]: Disconnected from invalid user evan 193.112.34.247 port 59948 [preauth]
+Feb 18 01:12:48 log-collector sshd[3254]: Connection closed by 45.115.45.3 port 45062 [preauth]
+Feb 18 01:13:25 log-collector sshd[3256]: Received disconnect from 36.156.24.97 port 46237:11:  [preauth]
+Feb 18 01:13:25 log-collector sshd[3256]: Disconnected from authenticating user root 36.156.24.97 port 46237 [preauth]
+Feb 18 01:17:01 log-collector CRON[3258]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 18 01:17:01 log-collector CRON[3258]: pam_unix(cron:session): session closed for user root
+Feb 18 01:19:19 log-collector sshd[3262]: Invalid user kyle from 202.105.18.222 port 13624
+Feb 18 01:19:19 log-collector sshd[3262]: Received disconnect from 202.105.18.222 port 13624:11: Bye Bye [preauth]
+Feb 18 01:19:19 log-collector sshd[3262]: Disconnected from invalid user kyle 202.105.18.222 port 13624 [preauth]
+Feb 18 01:19:32 log-collector sshd[3264]: Invalid user shengyetest from 140.143.206.82 port 47834
+Feb 18 01:19:32 log-collector sshd[3264]: Received disconnect from 140.143.206.82 port 47834:11: Bye Bye [preauth]
+Feb 18 01:19:32 log-collector sshd[3264]: Disconnected from invalid user shengyetest 140.143.206.82 port 47834 [preauth]
+Feb 18 01:19:50 log-collector sshd[3266]: Invalid user shengyetest from 142.93.34.56 port 57508
+Feb 18 01:19:50 log-collector sshd[3266]: Received disconnect from 142.93.34.56 port 57508:11: Bye Bye [preauth]
+Feb 18 01:19:50 log-collector sshd[3266]: Disconnected from invalid user shengyetest 142.93.34.56 port 57508 [preauth]
+Feb 18 01:19:51 log-collector sshd[3268]: Received disconnect from 89.39.142.34 port 49040:11: Bye Bye [preauth]
+Feb 18 01:19:51 log-collector sshd[3268]: Disconnected from authenticating user www-data 89.39.142.34 port 49040 [preauth]
+Feb 18 01:20:07 log-collector sshd[3270]: Connection closed by 45.115.45.3 port 46198 [preauth]
+Feb 18 01:27:34 log-collector sshd[3273]: Connection closed by 45.115.45.3 port 47308 [preauth]
+Feb 18 01:29:14 log-collector sshd[3275]: Invalid user dp from 51.75.126.115 port 60484
+Feb 18 01:29:14 log-collector sshd[3275]: Received disconnect from 51.75.126.115 port 60484:11: Bye Bye [preauth]
+Feb 18 01:29:14 log-collector sshd[3275]: Disconnected from invalid user dp 51.75.126.115 port 60484 [preauth]
+Feb 18 01:29:29 log-collector sshd[3277]: Invalid user claudia from 159.89.173.56 port 56484
+Feb 18 01:29:29 log-collector sshd[3277]: Received disconnect from 159.89.173.56 port 56484:11: Bye Bye [preauth]
+Feb 18 01:29:29 log-collector sshd[3277]: Disconnected from invalid user claudia 159.89.173.56 port 56484 [preauth]
+Feb 18 01:31:49 log-collector sshd[3279]: Invalid user share from 193.70.81.238 port 40724
+Feb 18 01:31:49 log-collector sshd[3279]: Received disconnect from 193.70.81.238 port 40724:11: Bye Bye [preauth]
+Feb 18 01:31:49 log-collector sshd[3279]: Disconnected from invalid user share 193.70.81.238 port 40724 [preauth]
+Feb 18 01:32:01 log-collector sshd[3281]: Invalid user mysql from 202.105.18.222 port 5073
+Feb 18 01:32:01 log-collector sshd[3281]: Received disconnect from 202.105.18.222 port 5073:11: Bye Bye [preauth]
+Feb 18 01:32:01 log-collector sshd[3281]: Disconnected from invalid user mysql 202.105.18.222 port 5073 [preauth]
+Feb 18 01:32:09 log-collector sshd[3283]: Invalid user sphinx from 129.204.65.29 port 37736
+Feb 18 01:32:09 log-collector sshd[3283]: Received disconnect from 129.204.65.29 port 37736:11: Bye Bye [preauth]
+Feb 18 01:32:09 log-collector sshd[3283]: Disconnected from invalid user sphinx 129.204.65.29 port 37736 [preauth]
+Feb 18 01:32:34 log-collector sshd[3285]: Invalid user jenkins from 198.211.97.234 port 36394
+Feb 18 01:32:34 log-collector sshd[3285]: Received disconnect from 198.211.97.234 port 36394:11: Bye Bye [preauth]
+Feb 18 01:32:34 log-collector sshd[3285]: Disconnected from invalid user jenkins 198.211.97.234 port 36394 [preauth]
+Feb 18 01:32:37 log-collector sshd[3288]: Invalid user dev from 81.218.92.106 port 23822
+Feb 18 01:32:37 log-collector sshd[3288]: Received disconnect from 81.218.92.106 port 23822:11: Bye Bye [preauth]
+Feb 18 01:32:37 log-collector sshd[3288]: Disconnected from invalid user dev 81.218.92.106 port 23822 [preauth]
+Feb 18 01:32:40 log-collector sshd[3290]: Invalid user stefan from 46.250.220.171 port 32890
+Feb 18 01:32:40 log-collector sshd[3290]: Received disconnect from 46.250.220.171 port 32890:11: Bye Bye [preauth]
+Feb 18 01:32:40 log-collector sshd[3290]: Disconnected from invalid user stefan 46.250.220.171 port 32890 [preauth]
+Feb 18 01:32:57 log-collector sshd[3292]: Invalid user sphinx from 103.85.197.10 port 60118
+Feb 18 01:32:57 log-collector sshd[3292]: Received disconnect from 103.85.197.10 port 60118:11: Bye Bye [preauth]
+Feb 18 01:32:57 log-collector sshd[3292]: Disconnected from invalid user sphinx 103.85.197.10 port 60118 [preauth]
+Feb 18 01:34:56 log-collector sshd[3294]: Connection closed by 45.115.45.3 port 48454 [preauth]
+Feb 18 01:35:50 log-collector sshd[3296]: Invalid user temp from 161.10.238.114 port 54735
+Feb 18 01:35:50 log-collector sshd[3296]: Received disconnect from 161.10.238.114 port 54735:11: Bye Bye [preauth]
+Feb 18 01:35:50 log-collector sshd[3296]: Disconnected from invalid user temp 161.10.238.114 port 54735 [preauth]
+Feb 18 01:35:58 log-collector sshd[3298]: Invalid user pz from 118.101.204.174 port 20846
+Feb 18 01:35:58 log-collector sshd[3298]: Received disconnect from 118.101.204.174 port 20846:11: Bye Bye [preauth]
+Feb 18 01:35:58 log-collector sshd[3298]: Disconnected from invalid user pz 118.101.204.174 port 20846 [preauth]
+Feb 18 01:42:18 log-collector sshd[3301]: Connection closed by 45.115.45.3 port 49572 [preauth]
+Feb 18 01:46:25 log-collector sshd[3303]: Invalid user bj from 81.183.97.108 port 23800
+Feb 18 01:46:25 log-collector sshd[3303]: Received disconnect from 81.183.97.108 port 23800:11: Bye Bye [preauth]
+Feb 18 01:46:25 log-collector sshd[3303]: Disconnected from invalid user bj 81.183.97.108 port 23800 [preauth]
+Feb 18 01:46:26 log-collector sshd[3305]: Invalid user hr from 82.80.192.29 port 56532
+Feb 18 01:46:26 log-collector sshd[3305]: Received disconnect from 82.80.192.29 port 56532:11: Bye Bye [preauth]
+Feb 18 01:46:26 log-collector sshd[3305]: Disconnected from invalid user hr 82.80.192.29 port 56532 [preauth]
+Feb 18 01:46:34 log-collector sshd[3307]: Received disconnect from 45.55.35.40 port 34574:11: Bye Bye [preauth]
+Feb 18 01:46:34 log-collector sshd[3307]: Disconnected from authenticating user root 45.55.35.40 port 34574 [preauth]
+Feb 18 01:46:39 log-collector sshd[3309]: Received disconnect from 77.253.211.3 port 48744:11: Bye Bye [preauth]
+Feb 18 01:46:39 log-collector sshd[3309]: Disconnected from authenticating user root 77.253.211.3 port 48744 [preauth]
+Feb 18 01:46:47 log-collector sshd[3311]: Received disconnect from 97.121.147.163 port 38426:11: Bye Bye [preauth]
+Feb 18 01:46:47 log-collector sshd[3311]: Disconnected from authenticating user root 97.121.147.163 port 38426 [preauth]
+Feb 18 01:47:01 log-collector sshd[3315]: Invalid user bj from 123.207.2.120 port 57566
+Feb 18 01:47:01 log-collector sshd[3315]: Received disconnect from 123.207.2.120 port 57566:11: Bye Bye [preauth]
+Feb 18 01:47:01 log-collector sshd[3315]: Disconnected from invalid user bj 123.207.2.120 port 57566 [preauth]
+Feb 18 01:47:01 log-collector sshd[3313]: Invalid user bj from 114.108.252.85 port 48952
+Feb 18 01:47:02 log-collector sshd[3313]: Received disconnect from 114.108.252.85 port 48952:11: Bye Bye [preauth]
+Feb 18 01:47:02 log-collector sshd[3313]: Disconnected from invalid user bj 114.108.252.85 port 48952 [preauth]
+Feb 18 01:47:46 log-collector sshd[3318]: Received disconnect from 42.62.66.8 port 59398:11: Bye Bye [preauth]
+Feb 18 01:47:46 log-collector sshd[3318]: Disconnected from authenticating user root 42.62.66.8 port 59398 [preauth]
+Feb 18 01:47:47 log-collector sshd[3320]: Received disconnect from 180.76.250.11 port 47614:11: Bye Bye [preauth]
+Feb 18 01:47:47 log-collector sshd[3320]: Disconnected from authenticating user root 180.76.250.11 port 47614 [preauth]
+Feb 18 01:49:44 log-collector sshd[3322]: Connection closed by 45.115.45.3 port 50718 [preauth]
+Feb 18 01:54:01 log-collector sshd[3325]: Received disconnect from 61.184.247.11 port 49263:11:  [preauth]
+Feb 18 01:54:01 log-collector sshd[3325]: Disconnected from authenticating user root 61.184.247.11 port 49263 [preauth]
+Feb 18 01:55:36 log-collector sshd[3327]: Received disconnect from 36.156.24.96 port 46500:11:  [preauth]
+Feb 18 01:55:36 log-collector sshd[3327]: Disconnected from authenticating user root 36.156.24.96 port 46500 [preauth]
+Feb 18 01:57:05 log-collector sshd[3329]: Connection closed by 45.115.45.3 port 51860 [preauth]
+Feb 18 01:57:14 log-collector sshd[3332]: Invalid user jenkins from 51.254.143.166 port 45495
+Feb 18 01:57:14 log-collector sshd[3331]: Invalid user jenkins from 145.239.198.218 port 59888
+Feb 18 01:57:14 log-collector sshd[3332]: Received disconnect from 51.254.143.166 port 45495:11: Bye Bye [preauth]
+Feb 18 01:57:14 log-collector sshd[3332]: Disconnected from invalid user jenkins 51.254.143.166 port 45495 [preauth]
+Feb 18 01:57:14 log-collector sshd[3331]: Received disconnect from 145.239.198.218 port 59888:11: Bye Bye [preauth]
+Feb 18 01:57:14 log-collector sshd[3331]: Disconnected from invalid user jenkins 145.239.198.218 port 59888 [preauth]
+Feb 18 01:57:28 log-collector sshd[3335]: Invalid user guest from 111.93.24.98 port 43634
+Feb 18 01:57:29 log-collector sshd[3335]: Received disconnect from 111.93.24.98 port 43634:11: Bye Bye [preauth]
+Feb 18 01:57:29 log-collector sshd[3335]: Disconnected from invalid user guest 111.93.24.98 port 43634 [preauth]
+Feb 18 01:57:39 log-collector sshd[3337]: Invalid user admin from 151.80.140.166 port 36900
+Feb 18 01:57:39 log-collector sshd[3337]: Received disconnect from 151.80.140.166 port 36900:11: Bye Bye [preauth]
+Feb 18 01:57:39 log-collector sshd[3337]: Disconnected from invalid user admin 151.80.140.166 port 36900 [preauth]
+Feb 18 01:57:50 log-collector sshd[3339]: Received disconnect from 61.184.247.6 port 56527:11:  [preauth]
+Feb 18 01:57:50 log-collector sshd[3339]: Disconnected from authenticating user root 61.184.247.6 port 56527 [preauth]
+Feb 18 01:57:54 log-collector sshd[3341]: Invalid user jenkins from 51.75.190.130 port 44078
+Feb 18 01:57:54 log-collector sshd[3341]: Received disconnect from 51.75.190.130 port 44078:11: Bye Bye [preauth]
+Feb 18 01:57:54 log-collector sshd[3341]: Disconnected from invalid user jenkins 51.75.190.130 port 44078 [preauth]
+Feb 18 01:58:03 log-collector sshd[3343]: Invalid user admin from 140.206.187.106 port 60070
+Feb 18 01:58:04 log-collector sshd[3343]: Received disconnect from 140.206.187.106 port 60070:11: Bye Bye [preauth]
+Feb 18 01:58:04 log-collector sshd[3343]: Disconnected from invalid user admin 140.206.187.106 port 60070 [preauth]
+Feb 18 01:58:14 log-collector sshd[3345]: Invalid user splash from 162.243.10.64 port 53328
+Feb 18 01:58:14 log-collector sshd[3345]: Received disconnect from 162.243.10.64 port 53328:11: Bye Bye [preauth]
+Feb 18 01:58:14 log-collector sshd[3345]: Disconnected from invalid user splash 162.243.10.64 port 53328 [preauth]
+Feb 18 01:58:17 log-collector sshd[3347]: Invalid user splash from 206.189.7.22 port 54284
+Feb 18 01:58:17 log-collector sshd[3347]: Received disconnect from 206.189.7.22 port 54284:11: Bye Bye [preauth]
+Feb 18 01:58:17 log-collector sshd[3347]: Disconnected from invalid user splash 206.189.7.22 port 54284 [preauth]
+Feb 18 01:58:32 log-collector sshd[3349]: Invalid user admin from 190.119.230.196 port 22097
+Feb 18 01:58:32 log-collector sshd[3349]: Received disconnect from 190.119.230.196 port 22097:11: Bye Bye [preauth]
+Feb 18 01:58:32 log-collector sshd[3349]: Disconnected from invalid user admin 190.119.230.196 port 22097 [preauth]
+Feb 18 01:59:01 log-collector sshd[3351]: Invalid user webadmin from 51.38.82.60 port 45425
+Feb 18 01:59:01 log-collector sshd[3351]: Received disconnect from 51.38.82.60 port 45425:11: Bye Bye [preauth]
+Feb 18 01:59:01 log-collector sshd[3351]: Disconnected from invalid user webadmin 51.38.82.60 port 45425 [preauth]
+Feb 18 01:59:35 log-collector sshd[3354]: Invalid user ralp from 202.82.10.241 port 37924
+Feb 18 01:59:35 log-collector sshd[3354]: Received disconnect from 202.82.10.241 port 37924:11: Bye Bye [preauth]
+Feb 18 01:59:35 log-collector sshd[3354]: Disconnected from invalid user ralp 202.82.10.241 port 37924 [preauth]
+Feb 18 02:02:29 log-collector sshd[3356]: Invalid user download from 178.128.89.118 port 57930
+Feb 18 02:02:29 log-collector sshd[3356]: Received disconnect from 178.128.89.118 port 57930:11: Bye Bye [preauth]
+Feb 18 02:02:29 log-collector sshd[3356]: Disconnected from invalid user download 178.128.89.118 port 57930 [preauth]
+Feb 18 02:02:51 log-collector sshd[3358]: Invalid user president from 192.141.122.82 port 56438
+Feb 18 02:02:51 log-collector sshd[3358]: Received disconnect from 192.141.122.82 port 56438:11: Bye Bye [preauth]
+Feb 18 02:02:51 log-collector sshd[3358]: Disconnected from invalid user president 192.141.122.82 port 56438 [preauth]
+Feb 18 02:02:52 log-collector sshd[3360]: Invalid user pierre from 115.134.254.144 port 33784
+Feb 18 02:02:53 log-collector sshd[3360]: Received disconnect from 115.134.254.144 port 33784:11: Bye Bye [preauth]
+Feb 18 02:02:53 log-collector sshd[3360]: Disconnected from invalid user pierre 115.134.254.144 port 33784 [preauth]
+Feb 18 02:03:01 log-collector sshd[3362]: Invalid user download from 5.196.88.58 port 57956
+Feb 18 02:03:01 log-collector sshd[3362]: Received disconnect from 5.196.88.58 port 57956:11: Bye Bye [preauth]
+Feb 18 02:03:01 log-collector sshd[3362]: Disconnected from invalid user download 5.196.88.58 port 57956 [preauth]
+Feb 18 02:03:04 log-collector sshd[3364]: Invalid user rdp from 60.54.119.170 port 20077
+Feb 18 02:03:04 log-collector sshd[3364]: Received disconnect from 60.54.119.170 port 20077:11: Bye Bye [preauth]
+Feb 18 02:03:04 log-collector sshd[3364]: Disconnected from invalid user rdp 60.54.119.170 port 20077 [preauth]
+Feb 18 02:03:41 log-collector sshd[3366]: Invalid user guest from 139.59.41.6 port 58126
+Feb 18 02:03:41 log-collector sshd[3366]: Received disconnect from 139.59.41.6 port 58126:11: Bye Bye [preauth]
+Feb 18 02:03:41 log-collector sshd[3366]: Disconnected from invalid user guest 139.59.41.6 port 58126 [preauth]
+Feb 18 02:04:30 log-collector sshd[3368]: Connection closed by 45.115.45.3 port 53012 [preauth]
+Feb 18 02:04:39 log-collector sshd[3371]: Received disconnect from 106.13.65.2 port 39964:11: Bye Bye [preauth]
+Feb 18 02:04:39 log-collector sshd[3371]: Disconnected from authenticating user lp 106.13.65.2 port 39964 [preauth]
+Feb 18 02:05:57 log-collector sshd[3374]: Invalid user dummy from 158.69.227.7 port 52694
+Feb 18 02:05:57 log-collector sshd[3374]: Received disconnect from 158.69.227.7 port 52694:11: Bye Bye [preauth]
+Feb 18 02:05:57 log-collector sshd[3374]: Disconnected from invalid user dummy 158.69.227.7 port 52694 [preauth]
+Feb 18 02:06:05 log-collector sshd[3376]: Invalid user freund from 132.145.46.105 port 41718
+Feb 18 02:06:05 log-collector sshd[3376]: Received disconnect from 132.145.46.105 port 41718:11: Bye Bye [preauth]
+Feb 18 02:06:05 log-collector sshd[3376]: Disconnected from invalid user freund 132.145.46.105 port 41718 [preauth]
+Feb 18 02:06:18 log-collector sshd[3378]: Invalid user freund from 59.120.57.247 port 51520
+Feb 18 02:06:19 log-collector sshd[3378]: Received disconnect from 59.120.57.247 port 51520:11: Bye Bye [preauth]
+Feb 18 02:06:19 log-collector sshd[3378]: Disconnected from invalid user freund 59.120.57.247 port 51520 [preauth]
+Feb 18 02:06:21 log-collector sshd[3380]: Invalid user django from 50.199.31.30 port 52319
+Feb 18 02:06:21 log-collector sshd[3380]: Received disconnect from 50.199.31.30 port 52319:11: Bye Bye [preauth]
+Feb 18 02:06:21 log-collector sshd[3380]: Disconnected from invalid user django 50.199.31.30 port 52319 [preauth]
+Feb 18 02:06:26 log-collector sshd[3382]: Invalid user ronaldo from 139.59.13.223 port 43414
+Feb 18 02:06:26 log-collector sshd[3382]: Received disconnect from 139.59.13.223 port 43414:11: Bye Bye [preauth]
+Feb 18 02:06:26 log-collector sshd[3382]: Disconnected from invalid user ronaldo 139.59.13.223 port 43414 [preauth]
+Feb 18 02:06:50 log-collector sshd[3384]: Invalid user www from 142.93.5.55 port 56244
+Feb 18 02:06:51 log-collector sshd[3384]: Received disconnect from 142.93.5.55 port 56244:11: Bye Bye [preauth]
+Feb 18 02:06:51 log-collector sshd[3384]: Disconnected from invalid user www 142.93.5.55 port 56244 [preauth]
+Feb 18 02:07:18 log-collector sshd[3386]: Invalid user test from 139.199.221.21 port 50780
+Feb 18 02:07:18 log-collector sshd[3386]: Received disconnect from 139.199.221.21 port 50780:11: Bye Bye [preauth]
+Feb 18 02:07:18 log-collector sshd[3386]: Disconnected from invalid user test 139.199.221.21 port 50780 [preauth]
+Feb 18 02:09:38 log-collector sshd[3388]: Invalid user mick from 66.165.213.44 port 37736
+Feb 18 02:09:38 log-collector sshd[3388]: Received disconnect from 66.165.213.44 port 37736:11: Bye Bye [preauth]
+Feb 18 02:09:38 log-collector sshd[3388]: Disconnected from invalid user mick 66.165.213.44 port 37736 [preauth]
+Feb 18 02:11:57 log-collector sshd[3391]: Connection closed by 45.115.45.3 port 54134 [preauth]
+Feb 18 02:15:30 log-collector sshd[3393]: Accepted publickey for root from 1.2.3.4 port 10067 ssh2: RSA SHA256:SHA256Goodness
+Feb 18 02:15:30 log-collector sshd[3393]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 18 02:15:30 log-collector systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Feb 18 02:15:30 log-collector systemd-logind[836]: New session 27 of user root.
